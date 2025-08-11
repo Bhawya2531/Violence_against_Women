@@ -1,0 +1,2521 @@
+,Country,Gender,Demographics Response,Question,Value
+5,Afghanistan,F,Employed for kind,... if she burns the food,17.0
+7,Afghanistan,F,Unemployed,... if she burns the food,18.0
+14,Afghanistan,F,Employed for cash,... if she burns the food,20.8
+18,Afghanistan,M,Unemployed,... if she burns the food,5.2
+23,Afghanistan,M,Employed for cash,... if she burns the food,8.4
+29,Afghanistan,M,Employed for kind,... if she burns the food,10.7
+65,Afghanistan,F,Employed for cash,... for at least one specific reason,56.35000000000001
+66,Afghanistan,F,Employed for kind,... for at least one specific reason,56.35000000000001
+67,Afghanistan,F,Unemployed,... for at least one specific reason,56.35000000000001
+68,Afghanistan,F,Employed for cash,... if she argues with him,56.35000000000001
+69,Afghanistan,F,Employed for kind,... if she argues with him,53.5
+70,Afghanistan,F,Unemployed,... if she argues with him,56.35000000000001
+71,Afghanistan,F,Employed for cash,... if she goes out without telling him,56.35000000000001
+72,Afghanistan,F,Employed for kind,... if she goes out without telling him,56.35000000000001
+73,Afghanistan,F,Unemployed,... if she goes out without telling him,56.35000000000001
+74,Afghanistan,F,Employed for cash,... if she neglects the children,48.1
+75,Afghanistan,F,Employed for kind,... if she neglects the children,49.3
+76,Afghanistan,F,Unemployed,... if she neglects the children,48.6
+77,Afghanistan,F,Employed for cash,... if she refuses to have sex with him,32.5
+78,Afghanistan,F,Employed for kind,... if she refuses to have sex with him,31.4
+79,Afghanistan,F,Unemployed,... if she refuses to have sex with him,33.7
+140,Afghanistan,M,Employed for cash,... for at least one specific reason,56.35000000000001
+141,Afghanistan,M,Employed for kind,... for at least one specific reason,56.35000000000001
+142,Afghanistan,M,Unemployed,... for at least one specific reason,56.35000000000001
+143,Afghanistan,M,Employed for cash,... if she argues with him,45.5
+144,Afghanistan,M,Employed for kind,... if she argues with him,47.8
+145,Afghanistan,M,Unemployed,... if she argues with him,41.1
+146,Afghanistan,M,Employed for cash,... if she goes out without telling him,56.35000000000001
+147,Afghanistan,M,Employed for kind,... if she goes out without telling him,56.35000000000001
+148,Afghanistan,M,Unemployed,... if she goes out without telling him,54.8
+149,Afghanistan,M,Employed for cash,... if she neglects the children,25.6
+150,Afghanistan,M,Employed for kind,... if she neglects the children,30.6
+151,Afghanistan,M,Unemployed,... if she neglects the children,31.8
+152,Afghanistan,M,Employed for cash,... if she refuses to have sex with him,18.9
+153,Afghanistan,M,Employed for kind,... if she refuses to have sex with him,27.8
+154,Afghanistan,M,Unemployed,... if she refuses to have sex with him,17.0
+184,Albania,F,Employed for cash,... if she burns the food,0.6
+188,Albania,F,Unemployed,... if she burns the food,0.8
+193,Albania,F,Employed for kind,... if she burns the food,2.4
+198,Albania,M,Employed for cash,... if she burns the food,0.3
+201,Albania,M,Employed for kind,... if she burns the food,0.5
+207,Albania,M,Unemployed,... if she burns the food,0.8
+245,Albania,F,Employed for cash,... for at least one specific reason,4.1
+246,Albania,F,Employed for kind,... for at least one specific reason,17.0
+247,Albania,F,Unemployed,... for at least one specific reason,7.6
+248,Albania,F,Employed for cash,... if she argues with him,1.2
+249,Albania,F,Employed for kind,... if she argues with him,6.9
+250,Albania,F,Unemployed,... if she argues with him,1.7
+251,Albania,F,Employed for cash,... if she goes out without telling him,1.8
+252,Albania,F,Employed for kind,... if she goes out without telling him,8.9
+253,Albania,F,Unemployed,... if she goes out without telling him,4.4
+254,Albania,F,Employed for cash,... if she neglects the children,3.2
+255,Albania,F,Employed for kind,... if she neglects the children,13.6
+256,Albania,F,Unemployed,... if she neglects the children,5.8
+257,Albania,F,Employed for cash,... if she refuses to have sex with him,0.7
+258,Albania,F,Employed for kind,... if she refuses to have sex with him,3.0
+259,Albania,F,Unemployed,... if she refuses to have sex with him,0.8
+320,Albania,M,Employed for cash,... for at least one specific reason,10.8
+321,Albania,M,Employed for kind,... for at least one specific reason,9.6
+322,Albania,M,Unemployed,... for at least one specific reason,12.4
+323,Albania,M,Employed for cash,... if she argues with him,3.4
+324,Albania,M,Employed for kind,... if she argues with him,3.6
+325,Albania,M,Unemployed,... if she argues with him,5.0
+326,Albania,M,Employed for cash,... if she goes out without telling him,7.2
+327,Albania,M,Employed for kind,... if she goes out without telling him,6.2
+328,Albania,M,Unemployed,... if she goes out without telling him,5.6
+329,Albania,M,Employed for cash,... if she neglects the children,7.5
+330,Albania,M,Employed for kind,... if she neglects the children,5.5
+331,Albania,M,Unemployed,... if she neglects the children,9.1
+332,Albania,M,Employed for cash,... if she refuses to have sex with him,1.3
+333,Albania,M,Employed for kind,... if she refuses to have sex with him,0.9
+334,Albania,M,Unemployed,... if she refuses to have sex with him,3.5
+363,Angola,F,Unemployed,... if she burns the food,8.8
+365,Angola,F,Employed for cash,... if she burns the food,9.9
+372,Angola,F,Employed for kind,... if she burns the food,14.3
+381,Angola,M,Employed for cash,... if she burns the food,5.5
+382,Angola,M,Unemployed,... if she burns the food,6.1
+385,Angola,M,Employed for kind,... if she burns the food,7.9
+425,Angola,F,Employed for cash,... for at least one specific reason,26.6
+426,Angola,F,Employed for kind,... for at least one specific reason,28.4
+427,Angola,F,Unemployed,... for at least one specific reason,21.3
+428,Angola,F,Employed for cash,... if she argues with him,16.1
+429,Angola,F,Employed for kind,... if she argues with him,19.1
+430,Angola,F,Unemployed,... if she argues with him,11.6
+431,Angola,F,Employed for cash,... if she goes out without telling him,15.2
+432,Angola,F,Employed for kind,... if she goes out without telling him,17.3
+433,Angola,F,Unemployed,... if she goes out without telling him,11.7
+434,Angola,F,Employed for cash,... if she neglects the children,16.7
+435,Angola,F,Employed for kind,... if she neglects the children,18.9
+436,Angola,F,Unemployed,... if she neglects the children,14.0
+437,Angola,F,Employed for cash,... if she refuses to have sex with him,12.4
+438,Angola,F,Employed for kind,... if she refuses to have sex with him,14.7
+439,Angola,F,Unemployed,... if she refuses to have sex with him,8.2
+500,Angola,M,Employed for cash,... for at least one specific reason,19.7
+501,Angola,M,Employed for kind,... for at least one specific reason,23.6
+502,Angola,M,Unemployed,... for at least one specific reason,19.0
+503,Angola,M,Employed for cash,... if she argues with him,10.9
+504,Angola,M,Employed for kind,... if she argues with him,13.3
+505,Angola,M,Unemployed,... if she argues with him,9.5
+506,Angola,M,Employed for cash,... if she goes out without telling him,8.2
+507,Angola,M,Employed for kind,... if she goes out without telling him,9.2
+508,Angola,M,Unemployed,... if she goes out without telling him,7.7
+509,Angola,M,Employed for cash,... if she neglects the children,11.3
+510,Angola,M,Employed for kind,... if she neglects the children,13.8
+511,Angola,M,Unemployed,... if she neglects the children,11.1
+512,Angola,M,Employed for cash,... if she refuses to have sex with him,5.2
+513,Angola,M,Employed for kind,... if she refuses to have sex with him,7.3
+514,Angola,M,Unemployed,... if she refuses to have sex with him,5.4
+544,Armenia,F,Unemployed,... if she burns the food,0.2
+546,Armenia,F,Employed for kind,... if she burns the food,0.3
+552,Armenia,F,Employed for cash,... if she burns the food,0.6
+560,Armenia,M,Employed for cash,... if she burns the food,0.6
+564,Armenia,M,Unemployed,... if she burns the food,0.7
+568,Armenia,M,Employed for kind,... if she burns the food,1.0
+605,Armenia,F,Employed for cash,... for at least one specific reason,9.1
+606,Armenia,F,Employed for kind,... for at least one specific reason,26.2
+607,Armenia,F,Unemployed,... for at least one specific reason,9.1
+608,Armenia,F,Employed for cash,... if she argues with him,6.1
+609,Armenia,F,Employed for kind,... if she argues with him,16.0
+610,Armenia,F,Unemployed,... if she argues with him,5.2
+611,Armenia,F,Employed for cash,... if she goes out without telling him,4.6
+612,Armenia,F,Employed for kind,... if she goes out without telling him,19.8
+613,Armenia,F,Unemployed,... if she goes out without telling him,4.2
+614,Armenia,F,Employed for cash,... if she neglects the children,7.6
+615,Armenia,F,Employed for kind,... if she neglects the children,24.4
+616,Armenia,F,Unemployed,... if she neglects the children,7.6
+617,Armenia,F,Employed for cash,... if she refuses to have sex with him,1.1
+618,Armenia,F,Employed for kind,... if she refuses to have sex with him,0.6
+619,Armenia,F,Unemployed,... if she refuses to have sex with him,0.6
+680,Armenia,M,Employed for cash,... for at least one specific reason,22.2
+681,Armenia,M,Employed for kind,... for at least one specific reason,47.0
+682,Armenia,M,Unemployed,... for at least one specific reason,20.7
+683,Armenia,M,Employed for cash,... if she argues with him,17.0
+684,Armenia,M,Employed for kind,... if she argues with him,31.7
+685,Armenia,M,Unemployed,... if she argues with him,12.2
+686,Armenia,M,Employed for cash,... if she goes out without telling him,12.3
+687,Armenia,M,Employed for kind,... if she goes out without telling him,26.3
+688,Armenia,M,Unemployed,... if she goes out without telling him,8.7
+689,Armenia,M,Employed for cash,... if she neglects the children,17.0
+690,Armenia,M,Employed for kind,... if she neglects the children,31.5
+691,Armenia,M,Unemployed,... if she neglects the children,16.0
+692,Armenia,M,Employed for cash,... if she refuses to have sex with him,1.5
+693,Armenia,M,Employed for kind,... if she refuses to have sex with him,6.0
+694,Armenia,M,Unemployed,... if she refuses to have sex with him,1.5
+723,Azerbaijan,F,Employed for cash,... if she burns the food,9.1
+726,Azerbaijan,F,Unemployed,... if she burns the food,12.6
+732,Azerbaijan,F,Employed for kind,... if she burns the food,21.9
+739,Azerbaijan,M,Employed for kind,... if she burns the food,3.7
+744,Azerbaijan,M,Employed for cash,... if she burns the food,6.6
+746,Azerbaijan,M,Unemployed,... if she burns the food,8.6
+785,Azerbaijan,F,Employed for cash,... for at least one specific reason,42.2
+786,Azerbaijan,F,Employed for kind,... for at least one specific reason,56.35000000000001
+787,Azerbaijan,F,Unemployed,... for at least one specific reason,50.2
+788,Azerbaijan,F,Employed for cash,... if she argues with him,25.2
+789,Azerbaijan,F,Employed for kind,... if she argues with him,43.1
+790,Azerbaijan,F,Unemployed,... if she argues with him,32.4
+791,Azerbaijan,F,Employed for cash,... if she goes out without telling him,35.0
+792,Azerbaijan,F,Employed for kind,... if she goes out without telling him,56.35000000000001
+793,Azerbaijan,F,Unemployed,... if she goes out without telling him,43.9
+794,Azerbaijan,F,Employed for cash,... if she neglects the children,27.7
+795,Azerbaijan,F,Employed for kind,... if she neglects the children,50.0
+796,Azerbaijan,F,Unemployed,... if she neglects the children,35.8
+797,Azerbaijan,F,Employed for cash,... if she refuses to have sex with him,10.8
+798,Azerbaijan,F,Employed for kind,... if she refuses to have sex with him,23.4
+799,Azerbaijan,F,Unemployed,... if she refuses to have sex with him,14.8
+860,Azerbaijan,M,Employed for cash,... for at least one specific reason,56.35000000000001
+861,Azerbaijan,M,Employed for kind,... for at least one specific reason,45.3
+862,Azerbaijan,M,Unemployed,... for at least one specific reason,56.35000000000001
+863,Azerbaijan,M,Employed for cash,... if she argues with him,53.4
+864,Azerbaijan,M,Employed for kind,... if she argues with him,42.5
+865,Azerbaijan,M,Unemployed,... if she argues with him,49.5
+866,Azerbaijan,M,Employed for cash,... if she goes out without telling him,41.3
+867,Azerbaijan,M,Employed for kind,... if she goes out without telling him,29.5
+868,Azerbaijan,M,Unemployed,... if she goes out without telling him,39.2
+869,Azerbaijan,M,Employed for cash,... if she neglects the children,35.2
+870,Azerbaijan,M,Employed for kind,... if she neglects the children,32.0
+871,Azerbaijan,M,Unemployed,... if she neglects the children,33.7
+872,Azerbaijan,M,Employed for cash,... if she refuses to have sex with him,11.7
+873,Azerbaijan,M,Employed for kind,... if she refuses to have sex with him,4.6
+874,Azerbaijan,M,Unemployed,... if she refuses to have sex with him,12.8
+906,Bangladesh,F,Unemployed,... if she burns the food,4.1
+908,Bangladesh,F,Employed for cash,... if she burns the food,4.7
+911,Bangladesh,F,Employed for kind,... if she burns the food,5.3
+922,Bangladesh,M,Employed for cash,... if she burns the food,14.9
+923,Bangladesh,M,Employed for kind,... if she burns the food,14.9
+924,Bangladesh,M,Unemployed,... if she burns the food,14.9
+965,Bangladesh,F,Employed for cash,... for at least one specific reason,28.8
+966,Bangladesh,F,Employed for kind,... for at least one specific reason,29.2
+967,Bangladesh,F,Unemployed,... for at least one specific reason,28.0
+968,Bangladesh,F,Employed for cash,... if she argues with him,20.6
+969,Bangladesh,F,Employed for kind,... if she argues with him,21.4
+970,Bangladesh,F,Unemployed,... if she argues with him,19.5
+971,Bangladesh,F,Employed for cash,... if she goes out without telling him,14.9
+972,Bangladesh,F,Employed for kind,... if she goes out without telling him,15.3
+973,Bangladesh,F,Unemployed,... if she goes out without telling him,14.2
+974,Bangladesh,F,Employed for cash,... if she neglects the children,15.6
+975,Bangladesh,F,Employed for kind,... if she neglects the children,16.5
+976,Bangladesh,F,Unemployed,... if she neglects the children,14.5
+977,Bangladesh,F,Employed for cash,... if she refuses to have sex with him,8.0
+978,Bangladesh,F,Employed for kind,... if she refuses to have sex with him,8.2
+979,Bangladesh,F,Unemployed,... if she refuses to have sex with him,6.7
+1040,Bangladesh,M,Employed for cash,... for at least one specific reason,14.9
+1041,Bangladesh,M,Employed for kind,... for at least one specific reason,14.9
+1042,Bangladesh,M,Unemployed,... for at least one specific reason,14.9
+1043,Bangladesh,M,Employed for cash,... if she argues with him,14.9
+1044,Bangladesh,M,Employed for kind,... if she argues with him,14.9
+1045,Bangladesh,M,Unemployed,... if she argues with him,14.9
+1046,Bangladesh,M,Employed for cash,... if she goes out without telling him,14.9
+1047,Bangladesh,M,Employed for kind,... if she goes out without telling him,14.9
+1048,Bangladesh,M,Unemployed,... if she goes out without telling him,14.9
+1049,Bangladesh,M,Employed for cash,... if she neglects the children,14.9
+1050,Bangladesh,M,Employed for kind,... if she neglects the children,14.9
+1051,Bangladesh,M,Unemployed,... if she neglects the children,14.9
+1052,Bangladesh,M,Employed for cash,... if she refuses to have sex with him,14.9
+1053,Bangladesh,M,Employed for kind,... if she refuses to have sex with him,14.9
+1054,Bangladesh,M,Unemployed,... if she refuses to have sex with him,14.9
+1083,Benin,F,Unemployed,... if she burns the food,11.7
+1088,Benin,F,Employed for kind,... if she burns the food,14.4
+1089,Benin,F,Employed for cash,... if she burns the food,14.6
+1098,Benin,M,Unemployed,... if she burns the food,4.4
+1103,Benin,M,Employed for cash,... if she burns the food,6.6
+1109,Benin,M,Employed for kind,... if she burns the food,11.0
+1145,Benin,F,Employed for cash,... for at least one specific reason,33.1
+1146,Benin,F,Employed for kind,... for at least one specific reason,30.6
+1147,Benin,F,Unemployed,... for at least one specific reason,29.3
+1148,Benin,F,Employed for cash,... if she argues with him,21.5
+1149,Benin,F,Employed for kind,... if she argues with him,19.6
+1150,Benin,F,Unemployed,... if she argues with him,19.9
+1151,Benin,F,Employed for cash,... if she goes out without telling him,22.6
+1152,Benin,F,Employed for kind,... if she goes out without telling him,17.1
+1153,Benin,F,Unemployed,... if she goes out without telling him,20.7
+1154,Benin,F,Employed for cash,... if she neglects the children,23.5
+1155,Benin,F,Employed for kind,... if she neglects the children,21.8
+1156,Benin,F,Unemployed,... if she neglects the children,20.8
+1157,Benin,F,Employed for cash,... if she refuses to have sex with him,12.9
+1158,Benin,F,Employed for kind,... if she refuses to have sex with him,11.1
+1159,Benin,F,Unemployed,... if she refuses to have sex with him,13.5
+1220,Benin,M,Employed for cash,... for at least one specific reason,15.2
+1221,Benin,M,Employed for kind,... for at least one specific reason,23.4
+1222,Benin,M,Unemployed,... for at least one specific reason,10.1
+1223,Benin,M,Employed for cash,... if she argues with him,9.8
+1224,Benin,M,Employed for kind,... if she argues with him,12.6
+1225,Benin,M,Unemployed,... if she argues with him,6.2
+1226,Benin,M,Employed for cash,... if she goes out without telling him,8.7
+1227,Benin,M,Employed for kind,... if she goes out without telling him,13.0
+1228,Benin,M,Unemployed,... if she goes out without telling him,5.7
+1229,Benin,M,Employed for cash,... if she neglects the children,9.1
+1230,Benin,M,Employed for kind,... if she neglects the children,14.3
+1231,Benin,M,Unemployed,... if she neglects the children,6.2
+1232,Benin,M,Employed for cash,... if she refuses to have sex with him,7.2
+1233,Benin,M,Employed for kind,... if she refuses to have sex with him,9.3
+1234,Benin,M,Unemployed,... if she refuses to have sex with him,3.8
+1263,Bolivia,F,Unemployed,... if she burns the food,2.6
+1267,Bolivia,F,Employed for cash,... if she burns the food,3.2
+1272,Bolivia,F,Employed for kind,... if she burns the food,4.9
+1282,Bolivia,M,Employed for cash,... if she burns the food,14.9
+1283,Bolivia,M,Employed for kind,... if she burns the food,14.9
+1284,Bolivia,M,Unemployed,... if she burns the food,14.9
+1325,Bolivia,F,Employed for cash,... for at least one specific reason,16.1
+1326,Bolivia,F,Employed for kind,... for at least one specific reason,19.4
+1327,Bolivia,F,Unemployed,... for at least one specific reason,14.4
+1328,Bolivia,F,Employed for cash,... if she argues with him,5.1
+1329,Bolivia,F,Employed for kind,... if she argues with him,7.5
+1330,Bolivia,F,Unemployed,... if she argues with him,4.4
+1331,Bolivia,F,Employed for cash,... if she goes out without telling him,5.9
+1332,Bolivia,F,Employed for kind,... if she goes out without telling him,8.7
+1333,Bolivia,F,Unemployed,... if she goes out without telling him,4.6
+1334,Bolivia,F,Employed for cash,... if she neglects the children,12.2
+1335,Bolivia,F,Employed for kind,... if she neglects the children,14.0
+1336,Bolivia,F,Unemployed,... if she neglects the children,11.5
+1337,Bolivia,F,Employed for cash,... if she refuses to have sex with him,2.3
+1338,Bolivia,F,Employed for kind,... if she refuses to have sex with him,3.2
+1339,Bolivia,F,Unemployed,... if she refuses to have sex with him,1.7
+1400,Bolivia,M,Employed for cash,... for at least one specific reason,14.9
+1401,Bolivia,M,Employed for kind,... for at least one specific reason,14.9
+1402,Bolivia,M,Unemployed,... for at least one specific reason,14.9
+1403,Bolivia,M,Employed for cash,... if she argues with him,14.9
+1404,Bolivia,M,Employed for kind,... if she argues with him,14.9
+1405,Bolivia,M,Unemployed,... if she argues with him,14.9
+1406,Bolivia,M,Employed for cash,... if she goes out without telling him,14.9
+1407,Bolivia,M,Employed for kind,... if she goes out without telling him,14.9
+1408,Bolivia,M,Unemployed,... if she goes out without telling him,14.9
+1409,Bolivia,M,Employed for cash,... if she neglects the children,14.9
+1410,Bolivia,M,Employed for kind,... if she neglects the children,14.9
+1411,Bolivia,M,Unemployed,... if she neglects the children,14.9
+1412,Bolivia,M,Employed for cash,... if she refuses to have sex with him,14.9
+1413,Bolivia,M,Employed for kind,... if she refuses to have sex with him,14.9
+1414,Bolivia,M,Unemployed,... if she refuses to have sex with him,14.9
+1446,Burkina Faso,F,Employed for kind,... if she burns the food,8.5
+1449,Burkina Faso,F,Employed for cash,... if she burns the food,10.0
+1454,Burkina Faso,F,Unemployed,... if she burns the food,12.1
+1455,Burkina Faso,M,Unemployed,... if she burns the food,5.5
+1458,Burkina Faso,M,Employed for cash,... if she burns the food,6.1
+1467,Burkina Faso,M,Employed for kind,... if she burns the food,9.2
+1505,Burkina Faso,F,Employed for cash,... for at least one specific reason,40.6
+1506,Burkina Faso,F,Employed for kind,... for at least one specific reason,45.8
+1507,Burkina Faso,F,Unemployed,... for at least one specific reason,43.8
+1508,Burkina Faso,F,Employed for cash,... if she argues with him,29.5
+1509,Burkina Faso,F,Employed for kind,... if she argues with him,30.6
+1510,Burkina Faso,F,Unemployed,... if she argues with him,33.8
+1511,Burkina Faso,F,Employed for cash,... if she goes out without telling him,27.9
+1512,Burkina Faso,F,Employed for kind,... if she goes out without telling him,31.6
+1513,Burkina Faso,F,Unemployed,... if she goes out without telling him,31.9
+1514,Burkina Faso,F,Employed for cash,... if she neglects the children,28.8
+1515,Burkina Faso,F,Employed for kind,... if she neglects the children,31.1
+1516,Burkina Faso,F,Unemployed,... if she neglects the children,31.8
+1517,Burkina Faso,F,Employed for cash,... if she refuses to have sex with him,16.1
+1518,Burkina Faso,F,Employed for kind,... if she refuses to have sex with him,18.9
+1519,Burkina Faso,F,Unemployed,... if she refuses to have sex with him,27.7
+1580,Burkina Faso,M,Employed for cash,... for at least one specific reason,27.0
+1581,Burkina Faso,M,Employed for kind,... for at least one specific reason,44.0
+1582,Burkina Faso,M,Unemployed,... for at least one specific reason,22.8
+1583,Burkina Faso,M,Employed for cash,... if she argues with him,15.3
+1584,Burkina Faso,M,Employed for kind,... if she argues with him,27.0
+1585,Burkina Faso,M,Unemployed,... if she argues with him,8.6
+1586,Burkina Faso,M,Employed for cash,... if she goes out without telling him,13.3
+1587,Burkina Faso,M,Employed for kind,... if she goes out without telling him,24.1
+1588,Burkina Faso,M,Unemployed,... if she goes out without telling him,7.5
+1589,Burkina Faso,M,Employed for cash,... if she neglects the children,16.7
+1590,Burkina Faso,M,Employed for kind,... if she neglects the children,24.8
+1591,Burkina Faso,M,Unemployed,... if she neglects the children,14.6
+1592,Burkina Faso,M,Employed for cash,... if she refuses to have sex with him,9.1
+1593,Burkina Faso,M,Employed for kind,... if she refuses to have sex with him,13.5
+1594,Burkina Faso,M,Unemployed,... if she refuses to have sex with him,6.7
+1622,Burundi,F,Unemployed,... if she burns the food,14.5
+1628,Burundi,F,Employed for cash,... if she burns the food,22.6
+1631,Burundi,F,Employed for kind,... if she burns the food,23.9
+1641,Burundi,M,Employed for cash,... if she burns the food,3.8
+1643,Burundi,M,Unemployed,... if she burns the food,5.5
+1647,Burundi,M,Employed for kind,... if she burns the food,6.5
+1685,Burundi,F,Employed for cash,... for at least one specific reason,56.35000000000001
+1686,Burundi,F,Employed for kind,... for at least one specific reason,56.35000000000001
+1687,Burundi,F,Unemployed,... for at least one specific reason,52.0
+1688,Burundi,F,Employed for cash,... if she argues with him,29.5
+1689,Burundi,F,Employed for kind,... if she argues with him,33.3
+1690,Burundi,F,Unemployed,... if she argues with him,21.5
+1691,Burundi,F,Employed for cash,... if she goes out without telling him,40.9
+1692,Burundi,F,Employed for kind,... if she goes out without telling him,40.7
+1693,Burundi,F,Unemployed,... if she goes out without telling him,30.1
+1694,Burundi,F,Employed for cash,... if she neglects the children,53.8
+1695,Burundi,F,Employed for kind,... if she neglects the children,52.5
+1696,Burundi,F,Unemployed,... if she neglects the children,44.0
+1697,Burundi,F,Employed for cash,... if she refuses to have sex with him,44.1
+1698,Burundi,F,Employed for kind,... if she refuses to have sex with him,43.9
+1699,Burundi,F,Unemployed,... if she refuses to have sex with him,29.3
+1760,Burundi,M,Employed for cash,... for at least one specific reason,33.1
+1761,Burundi,M,Employed for kind,... for at least one specific reason,36.4
+1762,Burundi,M,Unemployed,... for at least one specific reason,41.9
+1763,Burundi,M,Employed for cash,... if she argues with him,9.8
+1764,Burundi,M,Employed for kind,... if she argues with him,10.7
+1765,Burundi,M,Unemployed,... if she argues with him,10.8
+1766,Burundi,M,Employed for cash,... if she goes out without telling him,16.8
+1767,Burundi,M,Employed for kind,... if she goes out without telling him,17.1
+1768,Burundi,M,Unemployed,... if she goes out without telling him,21.2
+1769,Burundi,M,Employed for cash,... if she neglects the children,24.5
+1770,Burundi,M,Employed for kind,... if she neglects the children,27.3
+1771,Burundi,M,Unemployed,... if she neglects the children,32.7
+1772,Burundi,M,Employed for cash,... if she refuses to have sex with him,12.6
+1773,Burundi,M,Employed for kind,... if she refuses to have sex with him,13.5
+1774,Burundi,M,Unemployed,... if she refuses to have sex with him,20.6
+1806,Cambodia,F,Unemployed,... if she burns the food,11.4
+1807,Cambodia,F,Employed for cash,... if she burns the food,11.8
+1808,Cambodia,F,Employed for kind,... if she burns the food,11.9
+1820,Cambodia,M,Employed for cash,... if she burns the food,1.8
+1821,Cambodia,M,Employed for kind,... if she burns the food,1.9
+1826,Cambodia,M,Unemployed,... if she burns the food,2.1
+1865,Cambodia,F,Employed for cash,... for at least one specific reason,49.7
+1866,Cambodia,F,Employed for kind,... for at least one specific reason,56.35000000000001
+1867,Cambodia,F,Unemployed,... for at least one specific reason,47.5
+1868,Cambodia,F,Employed for cash,... if she argues with him,24.4
+1869,Cambodia,F,Employed for kind,... if she argues with him,24.9
+1870,Cambodia,F,Unemployed,... if she argues with him,21.5
+1871,Cambodia,F,Employed for cash,... if she goes out without telling him,32.1
+1872,Cambodia,F,Employed for kind,... if she goes out without telling him,33.3
+1873,Cambodia,F,Unemployed,... if she goes out without telling him,28.0
+1874,Cambodia,F,Employed for cash,... if she neglects the children,43.5
+1875,Cambodia,F,Employed for kind,... if she neglects the children,51.2
+1876,Cambodia,F,Unemployed,... if she neglects the children,41.7
+1877,Cambodia,F,Employed for cash,... if she refuses to have sex with him,13.1
+1878,Cambodia,F,Employed for kind,... if she refuses to have sex with him,15.6
+1879,Cambodia,F,Unemployed,... if she refuses to have sex with him,10.8
+1940,Cambodia,M,Employed for cash,... for at least one specific reason,26.8
+1941,Cambodia,M,Employed for kind,... for at least one specific reason,27.5
+1942,Cambodia,M,Unemployed,... for at least one specific reason,16.3
+1943,Cambodia,M,Employed for cash,... if she argues with him,11.8
+1944,Cambodia,M,Employed for kind,... if she argues with him,9.3
+1945,Cambodia,M,Unemployed,... if she argues with him,5.9
+1946,Cambodia,M,Employed for cash,... if she goes out without telling him,12.9
+1947,Cambodia,M,Employed for kind,... if she goes out without telling him,13.9
+1948,Cambodia,M,Unemployed,... if she goes out without telling him,5.7
+1949,Cambodia,M,Employed for cash,... if she neglects the children,19.4
+1950,Cambodia,M,Employed for kind,... if she neglects the children,22.8
+1951,Cambodia,M,Unemployed,... if she neglects the children,12.1
+1952,Cambodia,M,Employed for cash,... if she refuses to have sex with him,3.8
+1953,Cambodia,M,Employed for kind,... if she refuses to have sex with him,5.4
+1954,Cambodia,M,Unemployed,... if she refuses to have sex with him,3.0
+1985,Cameroon,F,Unemployed,... if she burns the food,12.5
+1987,Cameroon,F,Employed for cash,... if she burns the food,13.9
+1991,Cameroon,F,Employed for kind,... if she burns the food,15.3
+1997,Cameroon,M,Unemployed,... if she burns the food,6.6
+2000,Cameroon,M,Employed for kind,... if she burns the food,8.2
+2003,Cameroon,M,Employed for cash,... if she burns the food,9.4
+2045,Cameroon,F,Employed for cash,... for at least one specific reason,47.0
+2046,Cameroon,F,Employed for kind,... for at least one specific reason,48.7
+2047,Cameroon,F,Unemployed,... for at least one specific reason,44.7
+2048,Cameroon,F,Employed for cash,... if she argues with him,21.6
+2049,Cameroon,F,Employed for kind,... if she argues with him,22.3
+2050,Cameroon,F,Unemployed,... if she argues with him,18.7
+2051,Cameroon,F,Employed for cash,... if she goes out without telling him,27.6
+2052,Cameroon,F,Employed for kind,... if she goes out without telling him,28.9
+2053,Cameroon,F,Unemployed,... if she goes out without telling him,23.8
+2054,Cameroon,F,Employed for cash,... if she neglects the children,38.4
+2055,Cameroon,F,Employed for kind,... if she neglects the children,38.3
+2056,Cameroon,F,Unemployed,... if she neglects the children,35.4
+2057,Cameroon,F,Employed for cash,... if she refuses to have sex with him,15.0
+2058,Cameroon,F,Employed for kind,... if she refuses to have sex with him,13.8
+2059,Cameroon,F,Unemployed,... if she refuses to have sex with him,12.6
+2120,Cameroon,M,Employed for cash,... for at least one specific reason,39.2
+2121,Cameroon,M,Employed for kind,... for at least one specific reason,36.6
+2122,Cameroon,M,Unemployed,... for at least one specific reason,36.6
+2123,Cameroon,M,Employed for cash,... if she argues with him,18.0
+2124,Cameroon,M,Employed for kind,... if she argues with him,19.2
+2125,Cameroon,M,Unemployed,... if she argues with him,13.9
+2126,Cameroon,M,Employed for cash,... if she goes out without telling him,21.9
+2127,Cameroon,M,Employed for kind,... if she goes out without telling him,16.7
+2128,Cameroon,M,Unemployed,... if she goes out without telling him,19.7
+2129,Cameroon,M,Employed for cash,... if she neglects the children,29.1
+2130,Cameroon,M,Employed for kind,... if she neglects the children,28.0
+2131,Cameroon,M,Unemployed,... if she neglects the children,28.2
+2132,Cameroon,M,Employed for cash,... if she refuses to have sex with him,7.9
+2133,Cameroon,M,Employed for kind,... if she refuses to have sex with him,8.1
+2134,Cameroon,M,Unemployed,... if she refuses to have sex with him,6.1
+2162,Chad,F,Unemployed,... if she burns the food,42.3
+2168,Chad,F,Employed for kind,... if she burns the food,49.4
+2174,Chad,F,Employed for cash,... if she burns the food,56.35000000000001
+2178,Chad,M,Unemployed,... if she burns the food,24.3
+2180,Chad,M,Employed for cash,... if she burns the food,25.6
+2187,Chad,M,Employed for kind,... if she burns the food,31.5
+2225,Chad,F,Employed for cash,... for at least one specific reason,56.35000000000001
+2226,Chad,F,Employed for kind,... for at least one specific reason,56.35000000000001
+2227,Chad,F,Unemployed,... for at least one specific reason,56.35000000000001
+2228,Chad,F,Employed for cash,... if she argues with him,56.35000000000001
+2229,Chad,F,Employed for kind,... if she argues with him,48.8
+2230,Chad,F,Unemployed,... if she argues with him,45.1
+2231,Chad,F,Employed for cash,... if she goes out without telling him,56.35000000000001
+2232,Chad,F,Employed for kind,... if she goes out without telling him,56.35000000000001
+2233,Chad,F,Unemployed,... if she goes out without telling him,53.8
+2234,Chad,F,Employed for cash,... if she neglects the children,56.35000000000001
+2235,Chad,F,Employed for kind,... if she neglects the children,56.35000000000001
+2236,Chad,F,Unemployed,... if she neglects the children,54.2
+2237,Chad,F,Employed for cash,... if she refuses to have sex with him,45.7
+2238,Chad,F,Employed for kind,... if she refuses to have sex with him,40.1
+2239,Chad,F,Unemployed,... if she refuses to have sex with him,37.0
+2300,Chad,M,Employed for cash,... for at least one specific reason,51.9
+2301,Chad,M,Employed for kind,... for at least one specific reason,48.2
+2302,Chad,M,Unemployed,... for at least one specific reason,51.8
+2303,Chad,M,Employed for cash,... if she argues with him,20.1
+2304,Chad,M,Employed for kind,... if she argues with him,23.9
+2305,Chad,M,Unemployed,... if she argues with him,26.5
+2306,Chad,M,Employed for cash,... if she goes out without telling him,26.9
+2307,Chad,M,Employed for kind,... if she goes out without telling him,29.1
+2308,Chad,M,Unemployed,... if she goes out without telling him,30.3
+2309,Chad,M,Employed for cash,... if she neglects the children,39.6
+2310,Chad,M,Employed for kind,... if she neglects the children,33.2
+2311,Chad,M,Unemployed,... if she neglects the children,37.7
+2312,Chad,M,Employed for cash,... if she refuses to have sex with him,23.7
+2313,Chad,M,Employed for kind,... if she refuses to have sex with him,24.2
+2314,Chad,M,Unemployed,... if she refuses to have sex with him,22.9
+2342,Colombia,F,Employed for cash,... if she burns the food,1.1
+2348,Colombia,F,Unemployed,... if she burns the food,1.3
+2354,Colombia,F,Employed for kind,... if she burns the food,1.9
+2360,Colombia,M,Employed for cash,... if she burns the food,1.1
+2365,Colombia,M,Employed for kind,... if she burns the food,1.4
+2366,Colombia,M,Unemployed,... if she burns the food,1.7
+2405,Colombia,F,Employed for cash,... for at least one specific reason,2.7
+2406,Colombia,F,Employed for kind,... for at least one specific reason,5.5
+2407,Colombia,F,Unemployed,... for at least one specific reason,3.9
+2408,Colombia,F,Employed for cash,... if she argues with him,1.1
+2409,Colombia,F,Employed for kind,... if she argues with him,2.0
+2410,Colombia,F,Unemployed,... if she argues with him,1.5
+2411,Colombia,F,Employed for cash,... if she goes out without telling him,1.1
+2412,Colombia,F,Employed for kind,... if she goes out without telling him,2.4
+2413,Colombia,F,Unemployed,... if she goes out without telling him,1.4
+2414,Colombia,F,Employed for cash,... if she neglects the children,2.1
+2415,Colombia,F,Employed for kind,... if she neglects the children,4.4
+2416,Colombia,F,Unemployed,... if she neglects the children,2.9
+2417,Colombia,F,Employed for cash,... if she refuses to have sex with him,1.0
+2418,Colombia,F,Employed for kind,... if she refuses to have sex with him,2.0
+2419,Colombia,F,Unemployed,... if she refuses to have sex with him,1.1
+2480,Colombia,M,Employed for cash,... for at least one specific reason,4.1
+2481,Colombia,M,Employed for kind,... for at least one specific reason,7.5
+2482,Colombia,M,Unemployed,... for at least one specific reason,4.2
+2483,Colombia,M,Employed for cash,... if she argues with him,1.4
+2484,Colombia,M,Employed for kind,... if she argues with him,2.0
+2485,Colombia,M,Unemployed,... if she argues with him,1.7
+2486,Colombia,M,Employed for cash,... if she goes out without telling him,1.4
+2487,Colombia,M,Employed for kind,... if she goes out without telling him,2.3
+2488,Colombia,M,Unemployed,... if she goes out without telling him,1.5
+2489,Colombia,M,Employed for cash,... if she neglects the children,3.0
+2490,Colombia,M,Employed for kind,... if she neglects the children,4.1
+2491,Colombia,M,Unemployed,... if she neglects the children,2.8
+2492,Colombia,M,Employed for cash,... if she refuses to have sex with him,1.2
+2493,Colombia,M,Employed for kind,... if she refuses to have sex with him,3.3
+2494,Colombia,M,Unemployed,... if she refuses to have sex with him,1.8
+2523,Comoros,F,Employed for cash,... if she burns the food,11.1
+2527,Comoros,F,Unemployed,... if she burns the food,12.1
+2534,Comoros,F,Employed for kind,... if she burns the food,18.3
+2537,Comoros,M,Unemployed,... if she burns the food,1.8
+2541,Comoros,M,Employed for cash,... if she burns the food,2.7
+2549,Comoros,M,Employed for kind,... if she burns the food,5.5
+2585,Comoros,F,Employed for cash,... for at least one specific reason,39.7
+2586,Comoros,F,Employed for kind,... for at least one specific reason,49.7
+2587,Comoros,F,Unemployed,... for at least one specific reason,36.0
+2588,Comoros,F,Employed for cash,... if she argues with him,15.2
+2589,Comoros,F,Employed for kind,... if she argues with him,17.2
+2590,Comoros,F,Unemployed,... if she argues with him,15.5
+2591,Comoros,F,Employed for cash,... if she goes out without telling him,30.1
+2592,Comoros,F,Employed for kind,... if she goes out without telling him,34.0
+2593,Comoros,F,Unemployed,... if she goes out without telling him,26.1
+2594,Comoros,F,Employed for cash,... if she neglects the children,30.9
+2595,Comoros,F,Employed for kind,... if she neglects the children,37.5
+2596,Comoros,F,Unemployed,... if she neglects the children,27.2
+2597,Comoros,F,Employed for cash,... if she refuses to have sex with him,20.7
+2598,Comoros,F,Employed for kind,... if she refuses to have sex with him,27.5
+2599,Comoros,F,Unemployed,... if she refuses to have sex with him,17.8
+2660,Comoros,M,Employed for cash,... for at least one specific reason,12.3
+2661,Comoros,M,Employed for kind,... for at least one specific reason,23.8
+2662,Comoros,M,Unemployed,... for at least one specific reason,22.7
+2663,Comoros,M,Employed for cash,... if she argues with him,3.2
+2664,Comoros,M,Employed for kind,... if she argues with him,11.3
+2665,Comoros,M,Unemployed,... if she argues with him,10.9
+2666,Comoros,M,Employed for cash,... if she goes out without telling him,5.0
+2667,Comoros,M,Employed for kind,... if she goes out without telling him,11.5
+2668,Comoros,M,Unemployed,... if she goes out without telling him,7.1
+2669,Comoros,M,Employed for cash,... if she neglects the children,5.3
+2670,Comoros,M,Employed for kind,... if she neglects the children,12.0
+2671,Comoros,M,Unemployed,... if she neglects the children,10.3
+2672,Comoros,M,Employed for cash,... if she refuses to have sex with him,6.8
+2673,Comoros,M,Employed for kind,... if she refuses to have sex with him,8.2
+2674,Comoros,M,Unemployed,... if she refuses to have sex with him,10.4
+2707,Congo,F,Employed for cash,... if she burns the food,14.9
+2708,Congo,F,Employed for kind,... if she burns the food,14.9
+2709,Congo,F,Unemployed,... if she burns the food,14.9
+2722,Congo,M,Employed for cash,... if she burns the food,14.9
+2723,Congo,M,Employed for kind,... if she burns the food,14.9
+2724,Congo,M,Unemployed,... if she burns the food,14.9
+2765,Congo,F,Employed for cash,... for at least one specific reason,56.35000000000001
+2766,Congo,F,Employed for kind,... for at least one specific reason,56.35000000000001
+2767,Congo,F,Unemployed,... for at least one specific reason,56.35000000000001
+2768,Congo,F,Employed for cash,... if she argues with him,14.9
+2769,Congo,F,Employed for kind,... if she argues with him,14.9
+2770,Congo,F,Unemployed,... if she argues with him,14.9
+2771,Congo,F,Employed for cash,... if she goes out without telling him,40.8
+2772,Congo,F,Employed for kind,... if she goes out without telling him,50.0
+2773,Congo,F,Unemployed,... if she goes out without telling him,39.1
+2774,Congo,F,Employed for cash,... if she neglects the children,46.3
+2775,Congo,F,Employed for kind,... if she neglects the children,52.8
+2776,Congo,F,Unemployed,... if she neglects the children,46.5
+2777,Congo,F,Employed for cash,... if she refuses to have sex with him,27.3
+2778,Congo,F,Employed for kind,... if she refuses to have sex with him,32.1
+2779,Congo,F,Unemployed,... if she refuses to have sex with him,23.4
+2840,Congo,M,Employed for cash,... for at least one specific reason,41.9
+2841,Congo,M,Employed for kind,... for at least one specific reason,29.6
+2842,Congo,M,Unemployed,... for at least one specific reason,49.6
+2843,Congo,M,Employed for cash,... if she argues with him,14.9
+2844,Congo,M,Employed for kind,... if she argues with him,14.9
+2845,Congo,M,Unemployed,... if she argues with him,14.9
+2846,Congo,M,Employed for cash,... if she goes out without telling him,21.7
+2847,Congo,M,Employed for kind,... if she goes out without telling him,15.4
+2848,Congo,M,Unemployed,... if she goes out without telling him,25.7
+2849,Congo,M,Employed for cash,... if she neglects the children,30.4
+2850,Congo,M,Employed for kind,... if she neglects the children,18.8
+2851,Congo,M,Unemployed,... if she neglects the children,36.7
+2852,Congo,M,Employed for cash,... if she refuses to have sex with him,12.8
+2853,Congo,M,Employed for kind,... if she refuses to have sex with him,7.8
+2854,Congo,M,Unemployed,... if she refuses to have sex with him,15.8
+2882,Congo Democratic Republic,F,Employed for kind,... if she burns the food,21.2
+2885,Congo Democratic Republic,F,Unemployed,... if she burns the food,22.9
+2891,Congo Democratic Republic,F,Employed for cash,... if she burns the food,25.7
+2898,Congo Democratic Republic,M,Employed for kind,... if she burns the food,12.3
+2901,Congo Democratic Republic,M,Employed for cash,... if she burns the food,14.2
+2909,Congo Democratic Republic,M,Unemployed,... if she burns the food,19.9
+2945,Congo Democratic Republic,F,Employed for cash,... for at least one specific reason,56.35000000000001
+2946,Congo Democratic Republic,F,Employed for kind,... for at least one specific reason,56.35000000000001
+2947,Congo Democratic Republic,F,Unemployed,... for at least one specific reason,56.35000000000001
+2948,Congo Democratic Republic,F,Employed for cash,... if she argues with him,56.35000000000001
+2949,Congo Democratic Republic,F,Employed for kind,... if she argues with him,52.1
+2950,Congo Democratic Republic,F,Unemployed,... if she argues with him,54.6
+2951,Congo Democratic Republic,F,Employed for cash,... if she goes out without telling him,51.4
+2952,Congo Democratic Republic,F,Employed for kind,... if she goes out without telling him,43.2
+2953,Congo Democratic Republic,F,Unemployed,... if she goes out without telling him,46.7
+2954,Congo Democratic Republic,F,Employed for cash,... if she neglects the children,54.2
+2955,Congo Democratic Republic,F,Employed for kind,... if she neglects the children,40.6
+2956,Congo Democratic Republic,F,Unemployed,... if she neglects the children,49.9
+2957,Congo Democratic Republic,F,Employed for cash,... if she refuses to have sex with him,46.1
+2958,Congo Democratic Republic,F,Employed for kind,... if she refuses to have sex with him,44.3
+2959,Congo Democratic Republic,F,Unemployed,... if she refuses to have sex with him,37.4
+3020,Congo Democratic Republic,M,Employed for cash,... for at least one specific reason,56.35000000000001
+3021,Congo Democratic Republic,M,Employed for kind,... for at least one specific reason,56.35000000000001
+3022,Congo Democratic Republic,M,Unemployed,... for at least one specific reason,56.35000000000001
+3023,Congo Democratic Republic,M,Employed for cash,... if she argues with him,42.0
+3024,Congo Democratic Republic,M,Employed for kind,... if she argues with him,36.1
+3025,Congo Democratic Republic,M,Unemployed,... if she argues with him,45.6
+3026,Congo Democratic Republic,M,Employed for cash,... if she goes out without telling him,31.6
+3027,Congo Democratic Republic,M,Employed for kind,... if she goes out without telling him,30.0
+3028,Congo Democratic Republic,M,Unemployed,... if she goes out without telling him,37.4
+3029,Congo Democratic Republic,M,Employed for cash,... if she neglects the children,38.9
+3030,Congo Democratic Republic,M,Employed for kind,... if she neglects the children,36.5
+3031,Congo Democratic Republic,M,Unemployed,... if she neglects the children,46.3
+3032,Congo Democratic Republic,M,Employed for cash,... if she refuses to have sex with him,22.9
+3033,Congo Democratic Republic,M,Employed for kind,... if she refuses to have sex with him,20.1
+3034,Congo Democratic Republic,M,Unemployed,... if she refuses to have sex with him,26.4
+3064,Cote d'Ivoire,F,Unemployed,... if she burns the food,15.7
+3068,Cote d'Ivoire,F,Employed for cash,... if she burns the food,16.4
+3070,Cote d'Ivoire,F,Employed for kind,... if she burns the food,17.3
+3080,Cote d'Ivoire,M,Employed for cash,... if she burns the food,11.5
+3085,Cote d'Ivoire,M,Employed for kind,... if she burns the food,13.9
+3088,Cote d'Ivoire,M,Unemployed,... if she burns the food,16.4
+3125,Cote d'Ivoire,F,Employed for cash,... for at least one specific reason,48.5
+3126,Cote d'Ivoire,F,Employed for kind,... for at least one specific reason,52.4
+3127,Cote d'Ivoire,F,Unemployed,... for at least one specific reason,44.0
+3128,Cote d'Ivoire,F,Employed for cash,... if she argues with him,35.9
+3129,Cote d'Ivoire,F,Employed for kind,... if she argues with him,37.1
+3130,Cote d'Ivoire,F,Unemployed,... if she argues with him,29.8
+3131,Cote d'Ivoire,F,Employed for cash,... if she goes out without telling him,28.0
+3132,Cote d'Ivoire,F,Employed for kind,... if she goes out without telling him,28.8
+3133,Cote d'Ivoire,F,Unemployed,... if she goes out without telling him,22.6
+3134,Cote d'Ivoire,F,Employed for cash,... if she neglects the children,33.4
+3135,Cote d'Ivoire,F,Employed for kind,... if she neglects the children,35.8
+3136,Cote d'Ivoire,F,Unemployed,... if she neglects the children,29.7
+3137,Cote d'Ivoire,F,Employed for cash,... if she refuses to have sex with him,22.9
+3138,Cote d'Ivoire,F,Employed for kind,... if she refuses to have sex with him,23.9
+3139,Cote d'Ivoire,F,Unemployed,... if she refuses to have sex with him,17.4
+3200,Cote d'Ivoire,M,Employed for cash,... for at least one specific reason,40.7
+3201,Cote d'Ivoire,M,Employed for kind,... for at least one specific reason,45.5
+3202,Cote d'Ivoire,M,Unemployed,... for at least one specific reason,44.4
+3203,Cote d'Ivoire,M,Employed for cash,... if she argues with him,25.2
+3204,Cote d'Ivoire,M,Employed for kind,... if she argues with him,30.6
+3205,Cote d'Ivoire,M,Unemployed,... if she argues with him,23.2
+3206,Cote d'Ivoire,M,Employed for cash,... if she goes out without telling him,21.6
+3207,Cote d'Ivoire,M,Employed for kind,... if she goes out without telling him,26.5
+3208,Cote d'Ivoire,M,Unemployed,... if she goes out without telling him,19.5
+3209,Cote d'Ivoire,M,Employed for cash,... if she neglects the children,27.3
+3210,Cote d'Ivoire,M,Employed for kind,... if she neglects the children,33.9
+3211,Cote d'Ivoire,M,Unemployed,... if she neglects the children,30.5
+3212,Cote d'Ivoire,M,Employed for cash,... if she refuses to have sex with him,11.1
+3213,Cote d'Ivoire,M,Employed for kind,... if she refuses to have sex with him,17.0
+3214,Cote d'Ivoire,M,Unemployed,... if she refuses to have sex with him,9.5
+3243,Dominican Republic,F,Employed for cash,... if she burns the food,0.5
+3249,Dominican Republic,F,Employed for kind,... if she burns the food,0.7
+3251,Dominican Republic,F,Unemployed,... if she burns the food,0.8
+3255,Dominican Republic,M,Employed for cash,... if she burns the food,14.9
+3256,Dominican Republic,M,Employed for kind,... if she burns the food,14.9
+3263,Dominican Republic,M,Unemployed,... if she burns the food,0.9
+3305,Dominican Republic,F,Employed for cash,... for at least one specific reason,2.1
+3306,Dominican Republic,F,Employed for kind,... for at least one specific reason,2.2
+3307,Dominican Republic,F,Unemployed,... for at least one specific reason,2.7
+3308,Dominican Republic,F,Employed for cash,... if she argues with him,0.7
+3309,Dominican Republic,F,Employed for kind,... if she argues with him,0.5
+3310,Dominican Republic,F,Unemployed,... if she argues with him,0.7
+3311,Dominican Republic,F,Employed for cash,... if she goes out without telling him,0.8
+3312,Dominican Republic,F,Employed for kind,... if she goes out without telling him,1.0
+3313,Dominican Republic,F,Unemployed,... if she goes out without telling him,0.8
+3314,Dominican Republic,F,Employed for cash,... if she neglects the children,1.5
+3315,Dominican Republic,F,Employed for kind,... if she neglects the children,1.7
+3316,Dominican Republic,F,Unemployed,... if she neglects the children,2.0
+3317,Dominican Republic,F,Employed for cash,... if she refuses to have sex with him,0.3
+3318,Dominican Republic,F,Employed for kind,... if she refuses to have sex with him,0.6
+3319,Dominican Republic,F,Unemployed,... if she refuses to have sex with him,0.5
+3380,Dominican Republic,M,Employed for cash,... for at least one specific reason,14.9
+3381,Dominican Republic,M,Employed for kind,... for at least one specific reason,14.9
+3382,Dominican Republic,M,Unemployed,... for at least one specific reason,4.2
+3383,Dominican Republic,M,Employed for cash,... if she argues with him,14.9
+3384,Dominican Republic,M,Employed for kind,... if she argues with him,14.9
+3385,Dominican Republic,M,Unemployed,... if she argues with him,1.1
+3386,Dominican Republic,M,Employed for cash,... if she goes out without telling him,14.9
+3387,Dominican Republic,M,Employed for kind,... if she goes out without telling him,14.9
+3388,Dominican Republic,M,Unemployed,... if she goes out without telling him,2.2
+3389,Dominican Republic,M,Employed for cash,... if she neglects the children,14.9
+3390,Dominican Republic,M,Employed for kind,... if she neglects the children,14.9
+3391,Dominican Republic,M,Unemployed,... if she neglects the children,2.3
+3392,Dominican Republic,M,Employed for cash,... if she refuses to have sex with him,14.9
+3393,Dominican Republic,M,Employed for kind,... if she refuses to have sex with him,14.9
+3394,Dominican Republic,M,Unemployed,... if she refuses to have sex with him,0.6
+3423,Egypt,F,Employed for cash,... if she burns the food,4.4
+3427,Egypt,F,Unemployed,... if she burns the food,7.1
+3434,Egypt,F,Employed for kind,... if she burns the food,20.8
+3442,Egypt,M,Employed for cash,... if she burns the food,14.9
+3443,Egypt,M,Employed for kind,... if she burns the food,14.9
+3444,Egypt,M,Unemployed,... if she burns the food,14.9
+3485,Egypt,F,Employed for cash,... for at least one specific reason,24.1
+3486,Egypt,F,Employed for kind,... for at least one specific reason,56.35000000000001
+3487,Egypt,F,Unemployed,... for at least one specific reason,37.0
+3488,Egypt,F,Employed for cash,... if she argues with him,6.6
+3489,Egypt,F,Employed for kind,... if she argues with him,30.3
+3490,Egypt,F,Unemployed,... if she argues with him,13.4
+3491,Egypt,F,Employed for cash,... if she goes out without telling him,15.1
+3492,Egypt,F,Employed for kind,... if she goes out without telling him,45.4
+3493,Egypt,F,Unemployed,... if she goes out without telling him,26.8
+3494,Egypt,F,Employed for cash,... if she neglects the children,14.7
+3495,Egypt,F,Employed for kind,... if she neglects the children,43.0
+3496,Egypt,F,Unemployed,... if she neglects the children,25.3
+3497,Egypt,F,Employed for cash,... if she refuses to have sex with him,13.2
+3498,Egypt,F,Employed for kind,... if she refuses to have sex with him,39.4
+3499,Egypt,F,Unemployed,... if she refuses to have sex with him,20.5
+3560,Egypt,M,Employed for cash,... for at least one specific reason,14.9
+3561,Egypt,M,Employed for kind,... for at least one specific reason,14.9
+3562,Egypt,M,Unemployed,... for at least one specific reason,14.9
+3563,Egypt,M,Employed for cash,... if she argues with him,14.9
+3564,Egypt,M,Employed for kind,... if she argues with him,14.9
+3565,Egypt,M,Unemployed,... if she argues with him,14.9
+3566,Egypt,M,Employed for cash,... if she goes out without telling him,14.9
+3567,Egypt,M,Employed for kind,... if she goes out without telling him,14.9
+3568,Egypt,M,Unemployed,... if she goes out without telling him,14.9
+3569,Egypt,M,Employed for cash,... if she neglects the children,14.9
+3570,Egypt,M,Employed for kind,... if she neglects the children,14.9
+3571,Egypt,M,Unemployed,... if she neglects the children,14.9
+3572,Egypt,M,Employed for cash,... if she refuses to have sex with him,14.9
+3573,Egypt,M,Employed for kind,... if she refuses to have sex with him,14.9
+3574,Egypt,M,Unemployed,... if she refuses to have sex with him,14.9
+3604,Eritrea,F,Employed for cash,... if she burns the food,27.2
+3606,Eritrea,F,Unemployed,... if she burns the food,28.2
+3614,Eritrea,F,Employed for kind,... if she burns the food,46.1
+3622,Eritrea,M,Employed for cash,... if she burns the food,14.9
+3623,Eritrea,M,Employed for kind,... if she burns the food,14.9
+3624,Eritrea,M,Unemployed,... if she burns the food,14.9
+3665,Eritrea,F,Employed for cash,... for at least one specific reason,56.35000000000001
+3666,Eritrea,F,Employed for kind,... for at least one specific reason,56.35000000000001
+3667,Eritrea,F,Unemployed,... for at least one specific reason,56.35000000000001
+3668,Eritrea,F,Employed for cash,... if she argues with him,36.8
+3669,Eritrea,F,Employed for kind,... if she argues with him,56.35000000000001
+3670,Eritrea,F,Unemployed,... if she argues with him,45.0
+3671,Eritrea,F,Employed for cash,... if she goes out without telling him,43.8
+3672,Eritrea,F,Employed for kind,... if she goes out without telling him,56.35000000000001
+3673,Eritrea,F,Unemployed,... if she goes out without telling him,52.5
+3674,Eritrea,F,Employed for cash,... if she neglects the children,49.5
+3675,Eritrea,F,Employed for kind,... if she neglects the children,56.35000000000001
+3676,Eritrea,F,Unemployed,... if she neglects the children,50.3
+3677,Eritrea,F,Employed for cash,... if she refuses to have sex with him,39.8
+3678,Eritrea,F,Employed for kind,... if she refuses to have sex with him,56.35000000000001
+3679,Eritrea,F,Unemployed,... if she refuses to have sex with him,48.7
+3740,Eritrea,M,Employed for cash,... for at least one specific reason,14.9
+3741,Eritrea,M,Employed for kind,... for at least one specific reason,14.9
+3742,Eritrea,M,Unemployed,... for at least one specific reason,14.9
+3743,Eritrea,M,Employed for cash,... if she argues with him,14.9
+3744,Eritrea,M,Employed for kind,... if she argues with him,14.9
+3745,Eritrea,M,Unemployed,... if she argues with him,14.9
+3746,Eritrea,M,Employed for cash,... if she goes out without telling him,14.9
+3747,Eritrea,M,Employed for kind,... if she goes out without telling him,14.9
+3748,Eritrea,M,Unemployed,... if she goes out without telling him,14.9
+3749,Eritrea,M,Employed for cash,... if she neglects the children,14.9
+3750,Eritrea,M,Employed for kind,... if she neglects the children,14.9
+3751,Eritrea,M,Unemployed,... if she neglects the children,14.9
+3752,Eritrea,M,Employed for cash,... if she refuses to have sex with him,14.9
+3753,Eritrea,M,Employed for kind,... if she refuses to have sex with him,14.9
+3754,Eritrea,M,Unemployed,... if she refuses to have sex with him,14.9
+3783,Eswatini,F,Employed for cash,... if she burns the food,1.9
+3790,Eswatini,F,Unemployed,... if she burns the food,3.6
+3794,Eswatini,F,Employed for kind,... if she burns the food,5.4
+3799,Eswatini,M,Employed for cash,... if she burns the food,2.5
+3806,Eswatini,M,Unemployed,... if she burns the food,5.7
+3808,Eswatini,M,Employed for kind,... if she burns the food,6.6
+3845,Eswatini,F,Employed for cash,... for at least one specific reason,17.9
+3846,Eswatini,F,Employed for kind,... for at least one specific reason,38.1
+3847,Eswatini,F,Unemployed,... for at least one specific reason,26.4
+3848,Eswatini,F,Employed for cash,... if she argues with him,13.9
+3849,Eswatini,F,Employed for kind,... if she argues with him,29.0
+3850,Eswatini,F,Unemployed,... if she argues with him,18.7
+3851,Eswatini,F,Employed for cash,... if she goes out without telling him,5.4
+3852,Eswatini,F,Employed for kind,... if she goes out without telling him,9.1
+3853,Eswatini,F,Unemployed,... if she goes out without telling him,11.8
+3854,Eswatini,F,Employed for cash,... if she neglects the children,7.4
+3855,Eswatini,F,Employed for kind,... if she neglects the children,15.4
+3856,Eswatini,F,Unemployed,... if she neglects the children,13.5
+3857,Eswatini,F,Employed for cash,... if she refuses to have sex with him,2.9
+3858,Eswatini,F,Employed for kind,... if she refuses to have sex with him,3.6
+3859,Eswatini,F,Unemployed,... if she refuses to have sex with him,3.6
+3920,Eswatini,M,Employed for cash,... for at least one specific reason,24.8
+3921,Eswatini,M,Employed for kind,... for at least one specific reason,37.7
+3922,Eswatini,M,Unemployed,... for at least one specific reason,38.1
+3923,Eswatini,M,Employed for cash,... if she argues with him,17.9
+3924,Eswatini,M,Employed for kind,... if she argues with him,26.8
+3925,Eswatini,M,Unemployed,... if she argues with him,27.7
+3926,Eswatini,M,Employed for cash,... if she goes out without telling him,11.6
+3927,Eswatini,M,Employed for kind,... if she goes out without telling him,16.7
+3928,Eswatini,M,Unemployed,... if she goes out without telling him,18.5
+3929,Eswatini,M,Employed for cash,... if she neglects the children,11.3
+3930,Eswatini,M,Employed for kind,... if she neglects the children,21.4
+3931,Eswatini,M,Unemployed,... if she neglects the children,18.9
+3932,Eswatini,M,Employed for cash,... if she refuses to have sex with him,3.0
+3933,Eswatini,M,Employed for kind,... if she refuses to have sex with him,5.7
+3934,Eswatini,M,Unemployed,... if she refuses to have sex with him,4.2
+3963,Ethiopia,F,Employed for cash,... if she burns the food,30.2
+3968,Ethiopia,F,Unemployed,... if she burns the food,40.0
+3973,Ethiopia,F,Employed for kind,... if she burns the food,47.9
+3978,Ethiopia,M,Unemployed,... if she burns the food,6.7
+3979,Ethiopia,M,Employed for cash,... if she burns the food,7.7
+3987,Ethiopia,M,Employed for kind,... if she burns the food,14.3
+4025,Ethiopia,F,Employed for cash,... for at least one specific reason,54.6
+4026,Ethiopia,F,Employed for kind,... for at least one specific reason,56.35000000000001
+4027,Ethiopia,F,Unemployed,... for at least one specific reason,56.35000000000001
+4028,Ethiopia,F,Employed for cash,... if she argues with him,33.8
+4029,Ethiopia,F,Employed for kind,... if she argues with him,49.0
+4030,Ethiopia,F,Unemployed,... if she argues with him,42.4
+4031,Ethiopia,F,Employed for cash,... if she goes out without telling him,36.0
+4032,Ethiopia,F,Employed for kind,... if she goes out without telling him,46.5
+4033,Ethiopia,F,Unemployed,... if she goes out without telling him,45.2
+4034,Ethiopia,F,Employed for cash,... if she neglects the children,40.7
+4035,Ethiopia,F,Employed for kind,... if she neglects the children,53.1
+4036,Ethiopia,F,Unemployed,... if she neglects the children,47.7
+4037,Ethiopia,F,Employed for cash,... if she refuses to have sex with him,25.7
+4038,Ethiopia,F,Employed for kind,... if she refuses to have sex with him,41.4
+4039,Ethiopia,F,Unemployed,... if she refuses to have sex with him,35.4
+4100,Ethiopia,M,Employed for cash,... for at least one specific reason,17.5
+4101,Ethiopia,M,Employed for kind,... for at least one specific reason,33.6
+4102,Ethiopia,M,Unemployed,... for at least one specific reason,20.9
+4103,Ethiopia,M,Employed for cash,... if she argues with him,9.3
+4104,Ethiopia,M,Employed for kind,... if she argues with him,19.9
+4105,Ethiopia,M,Unemployed,... if she argues with him,11.7
+4106,Ethiopia,M,Employed for cash,... if she goes out without telling him,10.6
+4107,Ethiopia,M,Employed for kind,... if she goes out without telling him,20.5
+4108,Ethiopia,M,Unemployed,... if she goes out without telling him,11.5
+4109,Ethiopia,M,Employed for cash,... if she neglects the children,11.6
+4110,Ethiopia,M,Employed for kind,... if she neglects the children,23.4
+4111,Ethiopia,M,Unemployed,... if she neglects the children,14.9
+4112,Ethiopia,M,Employed for cash,... if she refuses to have sex with him,8.0
+4113,Ethiopia,M,Employed for kind,... if she refuses to have sex with him,15.3
+4114,Ethiopia,M,Unemployed,... if she refuses to have sex with him,9.0
+4145,Gabon,F,Employed for cash,... if she burns the food,10.4
+4148,Gabon,F,Unemployed,... if she burns the food,10.6
+4150,Gabon,F,Employed for kind,... if she burns the food,12.0
+4156,Gabon,M,Employed for kind,... if she burns the food,5.0
+4160,Gabon,M,Employed for cash,... if she burns the food,6.5
+4167,Gabon,M,Unemployed,... if she burns the food,8.2
+4205,Gabon,F,Employed for cash,... for at least one specific reason,48.8
+4206,Gabon,F,Employed for kind,... for at least one specific reason,56.35000000000001
+4207,Gabon,F,Unemployed,... for at least one specific reason,50.5
+4208,Gabon,F,Employed for cash,... if she argues with him,26.3
+4209,Gabon,F,Employed for kind,... if she argues with him,31.7
+4210,Gabon,F,Unemployed,... if she argues with him,25.1
+4211,Gabon,F,Employed for cash,... if she goes out without telling him,18.6
+4212,Gabon,F,Employed for kind,... if she goes out without telling him,26.8
+4213,Gabon,F,Unemployed,... if she goes out without telling him,18.4
+4214,Gabon,F,Employed for cash,... if she neglects the children,38.2
+4215,Gabon,F,Employed for kind,... if she neglects the children,48.3
+4216,Gabon,F,Unemployed,... if she neglects the children,40.8
+4217,Gabon,F,Employed for cash,... if she refuses to have sex with him,10.4
+4218,Gabon,F,Employed for kind,... if she refuses to have sex with him,12.3
+4219,Gabon,F,Unemployed,... if she refuses to have sex with him,7.1
+4280,Gabon,M,Employed for cash,... for at least one specific reason,39.5
+4281,Gabon,M,Employed for kind,... for at least one specific reason,44.1
+4282,Gabon,M,Unemployed,... for at least one specific reason,39.6
+4283,Gabon,M,Employed for cash,... if she argues with him,20.1
+4284,Gabon,M,Employed for kind,... if she argues with him,16.5
+4285,Gabon,M,Unemployed,... if she argues with him,18.8
+4286,Gabon,M,Employed for cash,... if she goes out without telling him,14.1
+4287,Gabon,M,Employed for kind,... if she goes out without telling him,13.3
+4288,Gabon,M,Unemployed,... if she goes out without telling him,14.1
+4289,Gabon,M,Employed for cash,... if she neglects the children,28.5
+4290,Gabon,M,Employed for kind,... if she neglects the children,37.8
+4291,Gabon,M,Unemployed,... if she neglects the children,29.3
+4292,Gabon,M,Employed for cash,... if she refuses to have sex with him,5.4
+4293,Gabon,M,Employed for kind,... if she refuses to have sex with him,6.8
+4294,Gabon,M,Unemployed,... if she refuses to have sex with him,7.1
+4324,Gambia,F,Unemployed,... if she burns the food,8.8
+4330,Gambia,F,Employed for kind,... if she burns the food,12.1
+4331,Gambia,F,Employed for cash,... if she burns the food,12.5
+4341,Gambia,M,Employed for cash,... if she burns the food,4.3
+4346,Gambia,M,Unemployed,... if she burns the food,9.7
+4349,Gambia,M,Employed for kind,... if she burns the food,10.7
+4385,Gambia,F,Employed for cash,... for at least one specific reason,56.35000000000001
+4386,Gambia,F,Employed for kind,... for at least one specific reason,56.35000000000001
+4387,Gambia,F,Unemployed,... for at least one specific reason,52.8
+4388,Gambia,F,Employed for cash,... if she argues with him,27.8
+4389,Gambia,F,Employed for kind,... if she argues with him,30.2
+4390,Gambia,F,Unemployed,... if she argues with him,20.2
+4391,Gambia,F,Employed for cash,... if she goes out without telling him,47.2
+4392,Gambia,F,Employed for kind,... if she goes out without telling him,53.1
+4393,Gambia,F,Unemployed,... if she goes out without telling him,36.4
+4394,Gambia,F,Employed for cash,... if she neglects the children,39.8
+4395,Gambia,F,Employed for kind,... if she neglects the children,44.6
+4396,Gambia,F,Unemployed,... if she neglects the children,30.4
+4397,Gambia,F,Employed for cash,... if she refuses to have sex with him,49.6
+4398,Gambia,F,Employed for kind,... if she refuses to have sex with him,51.4
+4399,Gambia,F,Unemployed,... if she refuses to have sex with him,39.7
+4460,Gambia,M,Employed for cash,... for at least one specific reason,30.3
+4461,Gambia,M,Employed for kind,... for at least one specific reason,47.4
+4462,Gambia,M,Unemployed,... for at least one specific reason,35.4
+4463,Gambia,M,Employed for cash,... if she argues with him,9.8
+4464,Gambia,M,Employed for kind,... if she argues with him,20.7
+4465,Gambia,M,Unemployed,... if she argues with him,12.3
+4466,Gambia,M,Employed for cash,... if she goes out without telling him,17.8
+4467,Gambia,M,Employed for kind,... if she goes out without telling him,35.3
+4468,Gambia,M,Unemployed,... if she goes out without telling him,24.1
+4469,Gambia,M,Employed for cash,... if she neglects the children,16.8
+4470,Gambia,M,Employed for kind,... if she neglects the children,30.5
+4471,Gambia,M,Unemployed,... if she neglects the children,20.6
+4472,Gambia,M,Employed for cash,... if she refuses to have sex with him,18.2
+4473,Gambia,M,Employed for kind,... if she refuses to have sex with him,25.7
+4474,Gambia,M,Unemployed,... if she refuses to have sex with him,20.0
+4504,Ghana,F,Employed for cash,... if she burns the food,6.3
+4509,Ghana,F,Unemployed,... if she burns the food,8.3
+4512,Ghana,F,Employed for kind,... if she burns the food,10.2
+4521,Ghana,M,Employed for cash,... if she burns the food,2.6
+4522,Ghana,M,Unemployed,... if she burns the food,2.7
+4529,Ghana,M,Employed for kind,... if she burns the food,5.2
+4565,Ghana,F,Employed for cash,... for at least one specific reason,23.9
+4566,Ghana,F,Employed for kind,... for at least one specific reason,41.1
+4567,Ghana,F,Unemployed,... for at least one specific reason,30.7
+4568,Ghana,F,Employed for cash,... if she argues with him,13.6
+4569,Ghana,F,Employed for kind,... if she argues with him,23.1
+4570,Ghana,F,Unemployed,... if she argues with him,15.8
+4571,Ghana,F,Employed for cash,... if she goes out without telling him,13.9
+4572,Ghana,F,Employed for kind,... if she goes out without telling him,26.5
+4573,Ghana,F,Unemployed,... if she goes out without telling him,16.4
+4574,Ghana,F,Employed for cash,... if she neglects the children,17.8
+4575,Ghana,F,Employed for kind,... if she neglects the children,30.2
+4576,Ghana,F,Unemployed,... if she neglects the children,22.6
+4577,Ghana,F,Employed for cash,... if she refuses to have sex with him,9.7
+4578,Ghana,F,Employed for kind,... if she refuses to have sex with him,21.2
+4579,Ghana,F,Unemployed,... if she refuses to have sex with him,12.4
+4640,Ghana,M,Employed for cash,... for at least one specific reason,11.9
+4641,Ghana,M,Employed for kind,... for at least one specific reason,19.9
+4642,Ghana,M,Unemployed,... for at least one specific reason,13.7
+4643,Ghana,M,Employed for cash,... if she argues with him,5.6
+4644,Ghana,M,Employed for kind,... if she argues with him,8.4
+4645,Ghana,M,Unemployed,... if she argues with him,5.6
+4646,Ghana,M,Employed for cash,... if she goes out without telling him,6.3
+4647,Ghana,M,Employed for kind,... if she goes out without telling him,10.3
+4648,Ghana,M,Unemployed,... if she goes out without telling him,5.9
+4649,Ghana,M,Employed for cash,... if she neglects the children,8.1
+4650,Ghana,M,Employed for kind,... if she neglects the children,13.6
+4651,Ghana,M,Unemployed,... if she neglects the children,6.7
+4652,Ghana,M,Employed for cash,... if she refuses to have sex with him,4.4
+4653,Ghana,M,Employed for kind,... if she refuses to have sex with him,6.2
+4654,Ghana,M,Unemployed,... if she refuses to have sex with him,5.6
+4683,Guatemala,F,Employed for cash,... if she burns the food,3.2
+4690,Guatemala,F,Unemployed,... if she burns the food,4.9
+4693,Guatemala,F,Employed for kind,... if she burns the food,7.0
+4702,Guatemala,M,Employed for cash,... if she burns the food,1.2
+4703,Guatemala,M,Employed for kind,... if she burns the food,1.3
+4707,Guatemala,M,Unemployed,... if she burns the food,1.8
+4745,Guatemala,F,Employed for cash,... for at least one specific reason,9.1
+4746,Guatemala,F,Employed for kind,... for at least one specific reason,15.5
+4747,Guatemala,F,Unemployed,... for at least one specific reason,12.5
+4748,Guatemala,F,Employed for cash,... if she argues with him,2.4
+4749,Guatemala,F,Employed for kind,... if she argues with him,3.9
+4750,Guatemala,F,Unemployed,... if she argues with him,4.0
+4751,Guatemala,F,Employed for cash,... if she goes out without telling him,2.7
+4752,Guatemala,F,Employed for kind,... if she goes out without telling him,5.4
+4753,Guatemala,F,Unemployed,... if she goes out without telling him,4.3
+4754,Guatemala,F,Employed for cash,... if she neglects the children,6.3
+4755,Guatemala,F,Employed for kind,... if she neglects the children,9.4
+4756,Guatemala,F,Unemployed,... if she neglects the children,8.7
+4757,Guatemala,F,Employed for cash,... if she refuses to have sex with him,1.9
+4758,Guatemala,F,Employed for kind,... if she refuses to have sex with him,2.8
+4759,Guatemala,F,Unemployed,... if she refuses to have sex with him,2.8
+4820,Guatemala,M,Employed for cash,... for at least one specific reason,6.6
+4821,Guatemala,M,Employed for kind,... for at least one specific reason,10.5
+4822,Guatemala,M,Unemployed,... for at least one specific reason,12.7
+4823,Guatemala,M,Employed for cash,... if she argues with him,2.3
+4824,Guatemala,M,Employed for kind,... if she argues with him,2.2
+4825,Guatemala,M,Unemployed,... if she argues with him,5.2
+4826,Guatemala,M,Employed for cash,... if she goes out without telling him,1.9
+4827,Guatemala,M,Employed for kind,... if she goes out without telling him,2.6
+4828,Guatemala,M,Unemployed,... if she goes out without telling him,3.3
+4829,Guatemala,M,Employed for cash,... if she neglects the children,3.9
+4830,Guatemala,M,Employed for kind,... if she neglects the children,7.2
+4831,Guatemala,M,Unemployed,... if she neglects the children,6.9
+4832,Guatemala,M,Employed for cash,... if she refuses to have sex with him,1.4
+4833,Guatemala,M,Employed for kind,... if she refuses to have sex with him,1.6
+4834,Guatemala,M,Unemployed,... if she refuses to have sex with him,2.5
+4866,Guinea,F,Employed for cash,... if she burns the food,22.5
+4867,Guinea,F,Unemployed,... if she burns the food,22.7
+4871,Guinea,F,Employed for kind,... if she burns the food,25.5
+4881,Guinea,M,Employed for kind,... if she burns the food,15.7
+4882,Guinea,M,Employed for cash,... if she burns the food,16.6
+4888,Guinea,M,Unemployed,... if she burns the food,20.7
+4925,Guinea,F,Employed for cash,... for at least one specific reason,56.35000000000001
+4926,Guinea,F,Employed for kind,... for at least one specific reason,56.35000000000001
+4927,Guinea,F,Unemployed,... for at least one specific reason,56.35000000000001
+4928,Guinea,F,Employed for cash,... if she argues with him,50.3
+4929,Guinea,F,Employed for kind,... if she argues with him,48.7
+4930,Guinea,F,Unemployed,... if she argues with him,47.7
+4931,Guinea,F,Employed for cash,... if she goes out without telling him,49.9
+4932,Guinea,F,Employed for kind,... if she goes out without telling him,56.35000000000001
+4933,Guinea,F,Unemployed,... if she goes out without telling him,51.5
+4934,Guinea,F,Employed for cash,... if she neglects the children,49.3
+4935,Guinea,F,Employed for kind,... if she neglects the children,56.35000000000001
+4936,Guinea,F,Unemployed,... if she neglects the children,49.1
+4937,Guinea,F,Employed for cash,... if she refuses to have sex with him,47.4
+4938,Guinea,F,Employed for kind,... if she refuses to have sex with him,49.2
+4939,Guinea,F,Unemployed,... if she refuses to have sex with him,46.2
+5000,Guinea,M,Employed for cash,... for at least one specific reason,55.5
+5001,Guinea,M,Employed for kind,... for at least one specific reason,56.35000000000001
+5002,Guinea,M,Unemployed,... for at least one specific reason,52.2
+5003,Guinea,M,Employed for cash,... if she argues with him,32.9
+5004,Guinea,M,Employed for kind,... if she argues with him,32.0
+5005,Guinea,M,Unemployed,... if she argues with him,31.3
+5006,Guinea,M,Employed for cash,... if she goes out without telling him,38.8
+5007,Guinea,M,Employed for kind,... if she goes out without telling him,37.4
+5008,Guinea,M,Unemployed,... if she goes out without telling him,34.6
+5009,Guinea,M,Employed for cash,... if she neglects the children,44.3
+5010,Guinea,M,Employed for kind,... if she neglects the children,42.6
+5011,Guinea,M,Unemployed,... if she neglects the children,41.9
+5012,Guinea,M,Employed for cash,... if she refuses to have sex with him,25.5
+5013,Guinea,M,Employed for kind,... if she refuses to have sex with him,27.1
+5014,Guinea,M,Unemployed,... if she refuses to have sex with him,21.7
+5043,Guyana,F,Employed for cash,... if she burns the food,2.1
+5050,Guyana,F,Unemployed,... if she burns the food,4.3
+5052,Guyana,F,Employed for kind,... if she burns the food,5.5
+5059,Guyana,M,Employed for kind,... if she burns the food,3.2
+5063,Guyana,M,Employed for cash,... if she burns the food,3.8
+5064,Guyana,M,Unemployed,... if she burns the food,4.4
+5105,Guyana,F,Employed for cash,... for at least one specific reason,12.0
+5106,Guyana,F,Employed for kind,... for at least one specific reason,26.0
+5107,Guyana,F,Unemployed,... for at least one specific reason,18.8
+5108,Guyana,F,Employed for cash,... if she argues with him,4.8
+5109,Guyana,F,Employed for kind,... if she argues with him,11.5
+5110,Guyana,F,Unemployed,... if she argues with him,7.7
+5111,Guyana,F,Employed for cash,... if she goes out without telling him,3.6
+5112,Guyana,F,Employed for kind,... if she goes out without telling him,10.0
+5113,Guyana,F,Unemployed,... if she goes out without telling him,7.0
+5114,Guyana,F,Employed for cash,... if she neglects the children,8.9
+5115,Guyana,F,Employed for kind,... if she neglects the children,21.3
+5116,Guyana,F,Unemployed,... if she neglects the children,13.2
+5117,Guyana,F,Employed for cash,... if she refuses to have sex with him,3.2
+5118,Guyana,F,Employed for kind,... if she refuses to have sex with him,13.9
+5119,Guyana,F,Unemployed,... if she refuses to have sex with him,4.8
+5180,Guyana,M,Employed for cash,... for at least one specific reason,18.7
+5181,Guyana,M,Employed for kind,... for at least one specific reason,30.8
+5182,Guyana,M,Unemployed,... for at least one specific reason,21.6
+5183,Guyana,M,Employed for cash,... if she argues with him,7.5
+5184,Guyana,M,Employed for kind,... if she argues with him,23.2
+5185,Guyana,M,Unemployed,... if she argues with him,8.3
+5186,Guyana,M,Employed for cash,... if she goes out without telling him,6.4
+5187,Guyana,M,Employed for kind,... if she goes out without telling him,21.4
+5188,Guyana,M,Unemployed,... if she goes out without telling him,7.2
+5189,Guyana,M,Employed for cash,... if she neglects the children,12.8
+5190,Guyana,M,Employed for kind,... if she neglects the children,25.3
+5191,Guyana,M,Unemployed,... if she neglects the children,14.5
+5192,Guyana,M,Employed for cash,... if she refuses to have sex with him,3.5
+5193,Guyana,M,Employed for kind,... if she refuses to have sex with him,5.3
+5194,Guyana,M,Unemployed,... if she refuses to have sex with him,3.8
+5226,Haiti,F,Employed for cash,... if she burns the food,3.2
+5229,Haiti,F,Unemployed,... if she burns the food,4.9
+5233,Haiti,F,Employed for kind,... if she burns the food,6.0
+5237,Haiti,M,Employed for kind,... if she burns the food,1.0
+5241,Haiti,M,Employed for cash,... if she burns the food,1.4
+5249,Haiti,M,Unemployed,... if she burns the food,2.9
+5285,Haiti,F,Employed for cash,... for at least one specific reason,15.5
+5286,Haiti,F,Employed for kind,... for at least one specific reason,16.4
+5287,Haiti,F,Unemployed,... for at least one specific reason,17.9
+5288,Haiti,F,Employed for cash,... if she argues with him,2.4
+5289,Haiti,F,Employed for kind,... if she argues with him,3.9
+5290,Haiti,F,Unemployed,... if she argues with him,2.6
+5291,Haiti,F,Employed for cash,... if she goes out without telling him,11.0
+5292,Haiti,F,Employed for kind,... if she goes out without telling him,8.2
+5293,Haiti,F,Unemployed,... if she goes out without telling him,11.4
+5294,Haiti,F,Employed for cash,... if she neglects the children,9.2
+5295,Haiti,F,Employed for kind,... if she neglects the children,8.6
+5296,Haiti,F,Unemployed,... if she neglects the children,11.3
+5297,Haiti,F,Employed for cash,... if she refuses to have sex with him,4.6
+5298,Haiti,F,Employed for kind,... if she refuses to have sex with him,6.3
+5299,Haiti,F,Unemployed,... if she refuses to have sex with him,4.9
+5360,Haiti,M,Employed for cash,... for at least one specific reason,9.8
+5361,Haiti,M,Employed for kind,... for at least one specific reason,10.9
+5362,Haiti,M,Unemployed,... for at least one specific reason,13.6
+5363,Haiti,M,Employed for cash,... if she argues with him,1.5
+5364,Haiti,M,Employed for kind,... if she argues with him,1.2
+5365,Haiti,M,Unemployed,... if she argues with him,2.0
+5366,Haiti,M,Employed for cash,... if she goes out without telling him,6.4
+5367,Haiti,M,Employed for kind,... if she goes out without telling him,7.4
+5368,Haiti,M,Unemployed,... if she goes out without telling him,7.7
+5369,Haiti,M,Employed for cash,... if she neglects the children,5.2
+5370,Haiti,M,Employed for kind,... if she neglects the children,4.5
+5371,Haiti,M,Unemployed,... if she neglects the children,8.8
+5372,Haiti,M,Employed for cash,... if she refuses to have sex with him,2.1
+5373,Haiti,M,Employed for kind,... if she refuses to have sex with him,3.0
+5374,Haiti,M,Unemployed,... if she refuses to have sex with him,3.4
+5403,Honduras,F,Employed for cash,... if she burns the food,3.6
+5410,Honduras,F,Unemployed,... if she burns the food,4.8
+5411,Honduras,F,Employed for kind,... if she burns the food,6.3
+5416,Honduras,M,Unemployed,... if she burns the food,1.2
+5422,Honduras,M,Employed for cash,... if she burns the food,2.9
+5429,Honduras,M,Employed for kind,... if she burns the food,6.5
+5465,Honduras,F,Employed for cash,... for at least one specific reason,11.2
+5466,Honduras,F,Employed for kind,... for at least one specific reason,17.8
+5467,Honduras,F,Unemployed,... for at least one specific reason,13.1
+5468,Honduras,F,Employed for cash,... if she argues with him,4.0
+5469,Honduras,F,Employed for kind,... if she argues with him,7.3
+5470,Honduras,F,Unemployed,... if she argues with him,5.5
+5471,Honduras,F,Employed for cash,... if she goes out without telling him,3.7
+5472,Honduras,F,Employed for kind,... if she goes out without telling him,6.9
+5473,Honduras,F,Unemployed,... if she goes out without telling him,4.7
+5474,Honduras,F,Employed for cash,... if she neglects the children,8.7
+5475,Honduras,F,Employed for kind,... if she neglects the children,14.1
+5476,Honduras,F,Unemployed,... if she neglects the children,9.8
+5477,Honduras,F,Employed for cash,... if she refuses to have sex with him,2.1
+5478,Honduras,F,Employed for kind,... if she refuses to have sex with him,3.8
+5479,Honduras,F,Unemployed,... if she refuses to have sex with him,2.5
+5540,Honduras,M,Employed for cash,... for at least one specific reason,9.7
+5541,Honduras,M,Employed for kind,... for at least one specific reason,14.9
+5542,Honduras,M,Unemployed,... for at least one specific reason,6.4
+5543,Honduras,M,Employed for cash,... if she argues with him,4.0
+5544,Honduras,M,Employed for kind,... if she argues with him,6.9
+5545,Honduras,M,Unemployed,... if she argues with him,2.1
+5546,Honduras,M,Employed for cash,... if she goes out without telling him,2.9
+5547,Honduras,M,Employed for kind,... if she goes out without telling him,6.8
+5548,Honduras,M,Unemployed,... if she goes out without telling him,0.8
+5549,Honduras,M,Employed for cash,... if she neglects the children,7.0
+5550,Honduras,M,Employed for kind,... if she neglects the children,11.3
+5551,Honduras,M,Unemployed,... if she neglects the children,4.9
+5552,Honduras,M,Employed for cash,... if she refuses to have sex with him,2.4
+5553,Honduras,M,Employed for kind,... if she refuses to have sex with him,4.1
+5554,Honduras,M,Unemployed,... if she refuses to have sex with him,0.7
+5585,India,F,Unemployed,... if she burns the food,17.8
+5590,India,F,Employed for cash,... if she burns the food,21.4
+5594,India,F,Employed for kind,... if she burns the food,25.8
+5600,India,M,Employed for cash,... if she burns the food,9.9
+5601,India,M,Unemployed,... if she burns the food,9.9
+5609,India,M,Employed for kind,... if she burns the food,14.1
+5645,India,F,Employed for cash,... for at least one specific reason,50.9
+5646,India,F,Employed for kind,... for at least one specific reason,52.4
+5647,India,F,Unemployed,... for at least one specific reason,41.8
+5648,India,F,Employed for cash,... if she argues with him,33.6
+5649,India,F,Employed for kind,... if she argues with him,36.6
+5650,India,F,Unemployed,... if she argues with him,26.9
+5651,India,F,Employed for cash,... if she goes out without telling him,30.6
+5652,India,F,Employed for kind,... if she goes out without telling him,31.9
+5653,India,F,Unemployed,... if she goes out without telling him,24.1
+5654,India,F,Employed for cash,... if she neglects the children,38.7
+5655,India,F,Employed for kind,... if she neglects the children,37.3
+5656,India,F,Unemployed,... if she neglects the children,30.3
+5657,India,F,Employed for cash,... if she refuses to have sex with him,15.2
+5658,India,F,Employed for kind,... if she refuses to have sex with him,17.8
+5659,India,F,Unemployed,... if she refuses to have sex with him,12.3
+5720,India,M,Employed for cash,... for at least one specific reason,31.7
+5721,India,M,Employed for kind,... for at least one specific reason,39.1
+5722,India,M,Unemployed,... for at least one specific reason,29.8
+5723,India,M,Employed for cash,... if she argues with him,20.2
+5724,India,M,Employed for kind,... if she argues with him,25.9
+5725,India,M,Unemployed,... if she argues with him,19.3
+5726,India,M,Employed for cash,... if she goes out without telling him,15.7
+5727,India,M,Employed for kind,... if she goes out without telling him,20.2
+5728,India,M,Unemployed,... if she goes out without telling him,15.4
+5729,India,M,Employed for cash,... if she neglects the children,19.8
+5730,India,M,Employed for kind,... if she neglects the children,24.0
+5731,India,M,Unemployed,... if she neglects the children,18.2
+5732,India,M,Employed for cash,... if she refuses to have sex with him,8.8
+5733,India,M,Employed for kind,... if she refuses to have sex with him,10.9
+5734,India,M,Unemployed,... if she refuses to have sex with him,8.9
+5764,Indonesia,F,Employed for cash,... if she burns the food,2.2
+5765,Indonesia,F,Unemployed,... if she burns the food,2.4
+5773,Indonesia,F,Employed for kind,... if she burns the food,4.0
+5777,Indonesia,M,Unemployed,... if she burns the food,0.0
+5783,Indonesia,M,Employed for cash,... if she burns the food,0.8
+5788,Indonesia,M,Employed for kind,... if she burns the food,1.4
+5825,Indonesia,F,Employed for cash,... for at least one specific reason,31.9
+5826,Indonesia,F,Employed for kind,... for at least one specific reason,37.8
+5827,Indonesia,F,Unemployed,... for at least one specific reason,36.3
+5828,Indonesia,F,Employed for cash,... if she argues with him,4.8
+5829,Indonesia,F,Employed for kind,... if she argues with him,8.4
+5830,Indonesia,F,Unemployed,... if she argues with him,5.7
+5831,Indonesia,F,Employed for cash,... if she goes out without telling him,22.2
+5832,Indonesia,F,Employed for kind,... if she goes out without telling him,28.2
+5833,Indonesia,F,Unemployed,... if she goes out without telling him,24.7
+5834,Indonesia,F,Employed for cash,... if she neglects the children,25.2
+5835,Indonesia,F,Employed for kind,... if she neglects the children,29.5
+5836,Indonesia,F,Unemployed,... if she neglects the children,28.9
+5837,Indonesia,F,Employed for cash,... if she refuses to have sex with him,8.5
+5838,Indonesia,F,Employed for kind,... if she refuses to have sex with him,11.0
+5839,Indonesia,F,Unemployed,... if she refuses to have sex with him,8.7
+5900,Indonesia,M,Employed for cash,... for at least one specific reason,18.0
+5901,Indonesia,M,Employed for kind,... for at least one specific reason,22.3
+5902,Indonesia,M,Unemployed,... for at least one specific reason,6.4
+5903,Indonesia,M,Employed for cash,... if she argues with him,3.2
+5904,Indonesia,M,Employed for kind,... if she argues with him,5.9
+5905,Indonesia,M,Unemployed,... if she argues with him,5.5
+5906,Indonesia,M,Employed for cash,... if she goes out without telling him,12.0
+5907,Indonesia,M,Employed for kind,... if she goes out without telling him,16.6
+5908,Indonesia,M,Unemployed,... if she goes out without telling him,0.0
+5909,Indonesia,M,Employed for cash,... if she neglects the children,12.6
+5910,Indonesia,M,Employed for kind,... if she neglects the children,13.1
+5911,Indonesia,M,Unemployed,... if she neglects the children,2.4
+5912,Indonesia,M,Employed for cash,... if she refuses to have sex with him,3.0
+5913,Indonesia,M,Employed for kind,... if she refuses to have sex with him,5.4
+5914,Indonesia,M,Unemployed,... if she refuses to have sex with him,4.2
+5940,Jordan,F,Employed for cash,... if she burns the food,14.9
+5945,Jordan,F,Employed for kind,... if she burns the food,2.1
+5949,Jordan,F,Unemployed,... if she burns the food,2.4
+5988,Jordan,F,Employed for cash,... for at least one specific reason,14.9
+5989,Jordan,F,Employed for kind,... for at least one specific reason,10.5
+5990,Jordan,F,Unemployed,... for at least one specific reason,14.7
+5991,Jordan,F,Employed for cash,... if she argues with him,14.9
+5992,Jordan,F,Employed for kind,... if she argues with him,4.8
+5993,Jordan,F,Unemployed,... if she argues with him,6.1
+5994,Jordan,F,Employed for cash,... if she goes out without telling him,14.9
+5995,Jordan,F,Employed for kind,... if she goes out without telling him,4.4
+5996,Jordan,F,Unemployed,... if she goes out without telling him,7.6
+5997,Jordan,F,Employed for cash,... if she neglects the children,14.9
+5998,Jordan,F,Employed for kind,... if she neglects the children,4.6
+5999,Jordan,F,Unemployed,... if she neglects the children,7.1
+6000,Jordan,F,Employed for cash,... if she refuses to have sex with him,14.9
+6001,Jordan,F,Employed for kind,... if she refuses to have sex with him,14.9
+6002,Jordan,F,Unemployed,... if she refuses to have sex with him,14.9
+6072,Jordan,M,Employed for cash,... for at least one specific reason,14.9
+6073,Jordan,M,Employed for kind,... for at least one specific reason,28.3
+6074,Jordan,M,Unemployed,... for at least one specific reason,32.7
+6075,Jordan,M,Employed for cash,... if she argues with him,14.9
+6076,Jordan,M,Employed for kind,... if she argues with him,15.8
+6077,Jordan,M,Unemployed,... if she argues with him,19.7
+6078,Jordan,M,Employed for cash,... if she burns the food,14.9
+6079,Jordan,M,Employed for kind,... if she burns the food,5.3
+6080,Jordan,M,Unemployed,... if she burns the food,12.2
+6081,Jordan,M,Employed for cash,... if she goes out without telling him,14.9
+6082,Jordan,M,Employed for kind,... if she goes out without telling him,17.0
+6083,Jordan,M,Unemployed,... if she goes out without telling him,20.5
+6084,Jordan,M,Employed for cash,... if she neglects the children,14.9
+6085,Jordan,M,Employed for kind,... if she neglects the children,10.8
+6086,Jordan,M,Unemployed,... if she neglects the children,16.1
+6087,Jordan,M,Employed for cash,... if she refuses to have sex with him,14.9
+6088,Jordan,M,Employed for kind,... if she refuses to have sex with him,14.9
+6089,Jordan,M,Unemployed,... if she refuses to have sex with him,14.9
+6162,Kenya,F,Employed for cash,... for at least one specific reason,38.6
+6163,Kenya,F,Employed for kind,... for at least one specific reason,53.7
+6164,Kenya,F,Unemployed,... for at least one specific reason,42.0
+6165,Kenya,F,Employed for cash,... if she argues with him,18.4
+6166,Kenya,F,Employed for kind,... if she argues with him,30.8
+6167,Kenya,F,Unemployed,... if she argues with him,21.0
+6168,Kenya,F,Employed for cash,... if she burns the food,5.9
+6169,Kenya,F,Employed for kind,... if she burns the food,10.1
+6170,Kenya,F,Unemployed,... if she burns the food,7.6
+6171,Kenya,F,Employed for cash,... if she goes out without telling him,20.0
+6172,Kenya,F,Employed for kind,... if she goes out without telling him,28.0
+6173,Kenya,F,Unemployed,... if she goes out without telling him,22.0
+6174,Kenya,F,Employed for cash,... if she neglects the children,30.5
+6175,Kenya,F,Employed for kind,... if she neglects the children,42.7
+6176,Kenya,F,Unemployed,... if she neglects the children,33.9
+6177,Kenya,F,Employed for cash,... if she refuses to have sex with him,13.8
+6178,Kenya,F,Employed for kind,... if she refuses to have sex with him,22.6
+6179,Kenya,F,Unemployed,... if she refuses to have sex with him,14.1
+6252,Kenya,M,Employed for cash,... for at least one specific reason,35.8
+6253,Kenya,M,Employed for kind,... for at least one specific reason,45.6
+6254,Kenya,M,Unemployed,... for at least one specific reason,33.1
+6255,Kenya,M,Employed for cash,... if she argues with him,20.6
+6256,Kenya,M,Employed for kind,... if she argues with him,25.1
+6257,Kenya,M,Unemployed,... if she argues with him,17.3
+6258,Kenya,M,Employed for cash,... if she burns the food,4.1
+6259,Kenya,M,Employed for kind,... if she burns the food,6.3
+6260,Kenya,M,Unemployed,... if she burns the food,5.4
+6261,Kenya,M,Employed for cash,... if she goes out without telling him,18.3
+6262,Kenya,M,Employed for kind,... if she goes out without telling him,25.0
+6263,Kenya,M,Unemployed,... if she goes out without telling him,15.2
+6264,Kenya,M,Employed for cash,... if she neglects the children,27.1
+6265,Kenya,M,Employed for kind,... if she neglects the children,35.5
+6266,Kenya,M,Unemployed,... if she neglects the children,23.5
+6267,Kenya,M,Employed for cash,... if she refuses to have sex with him,9.2
+6268,Kenya,M,Employed for kind,... if she refuses to have sex with him,13.5
+6269,Kenya,M,Unemployed,... if she refuses to have sex with him,10.4
+6342,Kyrgyz Republic,F,Employed for cash,... for at least one specific reason,26.3
+6343,Kyrgyz Republic,F,Employed for kind,... for at least one specific reason,40.9
+6344,Kyrgyz Republic,F,Unemployed,... for at least one specific reason,36.5
+6345,Kyrgyz Republic,F,Employed for cash,... if she argues with him,12.4
+6346,Kyrgyz Republic,F,Employed for kind,... if she argues with him,17.9
+6347,Kyrgyz Republic,F,Unemployed,... if she argues with him,18.5
+6348,Kyrgyz Republic,F,Employed for cash,... if she burns the food,4.5
+6349,Kyrgyz Republic,F,Employed for kind,... if she burns the food,6.4
+6350,Kyrgyz Republic,F,Unemployed,... if she burns the food,7.0
+6351,Kyrgyz Republic,F,Employed for cash,... if she goes out without telling him,16.6
+6352,Kyrgyz Republic,F,Employed for kind,... if she goes out without telling him,26.5
+6353,Kyrgyz Republic,F,Unemployed,... if she goes out without telling him,25.7
+6354,Kyrgyz Republic,F,Employed for cash,... if she neglects the children,20.3
+6355,Kyrgyz Republic,F,Employed for kind,... if she neglects the children,31.1
+6356,Kyrgyz Republic,F,Unemployed,... if she neglects the children,27.6
+6357,Kyrgyz Republic,F,Employed for cash,... if she refuses to have sex with him,5.7
+6358,Kyrgyz Republic,F,Employed for kind,... if she refuses to have sex with him,6.3
+6359,Kyrgyz Republic,F,Unemployed,... if she refuses to have sex with him,8.0
+6432,Kyrgyz Republic,M,Employed for cash,... for at least one specific reason,54.1
+6433,Kyrgyz Republic,M,Employed for kind,... for at least one specific reason,28.3
+6434,Kyrgyz Republic,M,Unemployed,... for at least one specific reason,45.0
+6435,Kyrgyz Republic,M,Employed for cash,... if she argues with him,25.4
+6436,Kyrgyz Republic,M,Employed for kind,... if she argues with him,16.3
+6437,Kyrgyz Republic,M,Unemployed,... if she argues with him,19.9
+6438,Kyrgyz Republic,M,Employed for cash,... if she burns the food,4.2
+6439,Kyrgyz Republic,M,Employed for kind,... if she burns the food,0.6
+6440,Kyrgyz Republic,M,Unemployed,... if she burns the food,8.7
+6441,Kyrgyz Republic,M,Employed for cash,... if she goes out without telling him,39.4
+6442,Kyrgyz Republic,M,Employed for kind,... if she goes out without telling him,20.2
+6443,Kyrgyz Republic,M,Unemployed,... if she goes out without telling him,29.1
+6444,Kyrgyz Republic,M,Employed for cash,... if she neglects the children,48.4
+6445,Kyrgyz Republic,M,Employed for kind,... if she neglects the children,19.9
+6446,Kyrgyz Republic,M,Unemployed,... if she neglects the children,40.5
+6447,Kyrgyz Republic,M,Employed for cash,... if she refuses to have sex with him,4.9
+6448,Kyrgyz Republic,M,Employed for kind,... if she refuses to have sex with him,5.1
+6449,Kyrgyz Republic,M,Unemployed,... if she refuses to have sex with him,8.3
+6522,Lesotho,F,Employed for cash,... for at least one specific reason,25.1
+6523,Lesotho,F,Employed for kind,... for at least one specific reason,39.2
+6524,Lesotho,F,Unemployed,... for at least one specific reason,38.6
+6525,Lesotho,F,Employed for cash,... if she argues with him,17.7
+6526,Lesotho,F,Employed for kind,... if she argues with him,28.6
+6527,Lesotho,F,Unemployed,... if she argues with him,29.1
+6528,Lesotho,F,Employed for cash,... if she burns the food,3.9
+6529,Lesotho,F,Employed for kind,... if she burns the food,8.8
+6530,Lesotho,F,Unemployed,... if she burns the food,7.8
+6531,Lesotho,F,Employed for cash,... if she goes out without telling him,7.0
+6532,Lesotho,F,Employed for kind,... if she goes out without telling him,11.5
+6533,Lesotho,F,Unemployed,... if she goes out without telling him,13.4
+6534,Lesotho,F,Employed for cash,... if she neglects the children,16.1
+6535,Lesotho,F,Employed for kind,... if she neglects the children,28.0
+6536,Lesotho,F,Unemployed,... if she neglects the children,25.6
+6537,Lesotho,F,Employed for cash,... if she refuses to have sex with him,6.0
+6538,Lesotho,F,Employed for kind,... if she refuses to have sex with him,10.3
+6539,Lesotho,F,Unemployed,... if she refuses to have sex with him,11.8
+6612,Lesotho,M,Employed for cash,... for at least one specific reason,32.8
+6613,Lesotho,M,Employed for kind,... for at least one specific reason,46.9
+6614,Lesotho,M,Unemployed,... for at least one specific reason,46.2
+6615,Lesotho,M,Employed for cash,... if she argues with him,20.8
+6616,Lesotho,M,Employed for kind,... if she argues with him,30.9
+6617,Lesotho,M,Unemployed,... if she argues with him,30.8
+6618,Lesotho,M,Employed for cash,... if she burns the food,4.2
+6619,Lesotho,M,Employed for kind,... if she burns the food,8.2
+6620,Lesotho,M,Unemployed,... if she burns the food,8.8
+6621,Lesotho,M,Employed for cash,... if she goes out without telling him,13.2
+6622,Lesotho,M,Employed for kind,... if she goes out without telling him,19.1
+6623,Lesotho,M,Unemployed,... if she goes out without telling him,17.6
+6624,Lesotho,M,Employed for cash,... if she neglects the children,20.9
+6625,Lesotho,M,Employed for kind,... if she neglects the children,34.2
+6626,Lesotho,M,Unemployed,... if she neglects the children,29.5
+6627,Lesotho,M,Employed for cash,... if she refuses to have sex with him,6.0
+6628,Lesotho,M,Employed for kind,... if she refuses to have sex with him,13.8
+6629,Lesotho,M,Unemployed,... if she refuses to have sex with him,11.7
+6702,Liberia,F,Employed for cash,... for at least one specific reason,39.7
+6703,Liberia,F,Employed for kind,... for at least one specific reason,46.4
+6704,Liberia,F,Unemployed,... for at least one specific reason,43.4
+6705,Liberia,F,Employed for cash,... if she argues with him,31.1
+6706,Liberia,F,Employed for kind,... if she argues with him,34.6
+6707,Liberia,F,Unemployed,... if she argues with him,34.3
+6708,Liberia,F,Employed for cash,... if she burns the food,6.8
+6709,Liberia,F,Employed for kind,... if she burns the food,7.4
+6710,Liberia,F,Unemployed,... if she burns the food,8.0
+6711,Liberia,F,Employed for cash,... if she goes out without telling him,28.2
+6712,Liberia,F,Employed for kind,... if she goes out without telling him,26.4
+6713,Liberia,F,Unemployed,... if she goes out without telling him,29.6
+6714,Liberia,F,Employed for cash,... if she neglects the children,31.3
+6715,Liberia,F,Employed for kind,... if she neglects the children,31.9
+6716,Liberia,F,Unemployed,... if she neglects the children,33.3
+6717,Liberia,F,Employed for cash,... if she refuses to have sex with him,9.9
+6718,Liberia,F,Employed for kind,... if she refuses to have sex with him,8.8
+6719,Liberia,F,Unemployed,... if she refuses to have sex with him,12.3
+6792,Liberia,M,Employed for cash,... for at least one specific reason,23.2
+6793,Liberia,M,Employed for kind,... for at least one specific reason,32.5
+6794,Liberia,M,Unemployed,... for at least one specific reason,21.3
+6795,Liberia,M,Employed for cash,... if she argues with him,17.0
+6796,Liberia,M,Employed for kind,... if she argues with him,24.7
+6797,Liberia,M,Unemployed,... if she argues with him,16.5
+6798,Liberia,M,Employed for cash,... if she burns the food,1.4
+6799,Liberia,M,Employed for kind,... if she burns the food,4.6
+6800,Liberia,M,Unemployed,... if she burns the food,4.1
+6801,Liberia,M,Employed for cash,... if she goes out without telling him,14.5
+6802,Liberia,M,Employed for kind,... if she goes out without telling him,15.5
+6803,Liberia,M,Unemployed,... if she goes out without telling him,11.9
+6804,Liberia,M,Employed for cash,... if she neglects the children,14.8
+6805,Liberia,M,Employed for kind,... if she neglects the children,18.8
+6806,Liberia,M,Unemployed,... if she neglects the children,11.5
+6807,Liberia,M,Employed for cash,... if she refuses to have sex with him,4.2
+6808,Liberia,M,Employed for kind,... if she refuses to have sex with him,4.0
+6809,Liberia,M,Unemployed,... if she refuses to have sex with him,3.9
+6882,Madagascar,F,Employed for cash,... for at least one specific reason,29.5
+6883,Madagascar,F,Employed for kind,... for at least one specific reason,35.9
+6884,Madagascar,F,Unemployed,... for at least one specific reason,33.0
+6885,Madagascar,F,Employed for cash,... if she argues with him,5.7
+6886,Madagascar,F,Employed for kind,... if she argues with him,7.0
+6887,Madagascar,F,Unemployed,... if she argues with him,4.7
+6888,Madagascar,F,Employed for cash,... if she burns the food,6.6
+6889,Madagascar,F,Employed for kind,... if she burns the food,8.4
+6890,Madagascar,F,Unemployed,... if she burns the food,6.8
+6891,Madagascar,F,Employed for cash,... if she goes out without telling him,17.3
+6892,Madagascar,F,Employed for kind,... if she goes out without telling him,22.5
+6893,Madagascar,F,Unemployed,... if she goes out without telling him,17.9
+6894,Madagascar,F,Employed for cash,... if she neglects the children,25.8
+6895,Madagascar,F,Employed for kind,... if she neglects the children,31.2
+6896,Madagascar,F,Unemployed,... if she neglects the children,28.8
+6897,Madagascar,F,Employed for cash,... if she refuses to have sex with him,8.5
+6898,Madagascar,F,Employed for kind,... if she refuses to have sex with him,11.2
+6899,Madagascar,F,Unemployed,... if she refuses to have sex with him,6.9
+6972,Madagascar,M,Employed for cash,... for at least one specific reason,26.0
+6973,Madagascar,M,Employed for kind,... for at least one specific reason,35.0
+6974,Madagascar,M,Unemployed,... for at least one specific reason,33.8
+6975,Madagascar,M,Employed for cash,... if she argues with him,7.9
+6976,Madagascar,M,Employed for kind,... if she argues with him,10.7
+6977,Madagascar,M,Unemployed,... if she argues with him,8.0
+6978,Madagascar,M,Employed for cash,... if she burns the food,5.1
+6979,Madagascar,M,Employed for kind,... if she burns the food,8.5
+6980,Madagascar,M,Unemployed,... if she burns the food,5.8
+6981,Madagascar,M,Employed for cash,... if she goes out without telling him,15.5
+6982,Madagascar,M,Employed for kind,... if she goes out without telling him,23.7
+6983,Madagascar,M,Unemployed,... if she goes out without telling him,20.3
+6984,Madagascar,M,Employed for cash,... if she neglects the children,21.1
+6985,Madagascar,M,Employed for kind,... if she neglects the children,28.3
+6986,Madagascar,M,Unemployed,... if she neglects the children,26.2
+6987,Madagascar,M,Employed for cash,... if she refuses to have sex with him,6.5
+6988,Madagascar,M,Employed for kind,... if she refuses to have sex with him,10.4
+6989,Madagascar,M,Unemployed,... if she refuses to have sex with him,8.4
+7062,Malawi,F,Employed for cash,... for at least one specific reason,15.7
+7063,Malawi,F,Employed for kind,... for at least one specific reason,16.5
+7064,Malawi,F,Unemployed,... for at least one specific reason,16.6
+7065,Malawi,F,Employed for cash,... if she argues with him,6.3
+7066,Malawi,F,Employed for kind,... if she argues with him,6.7
+7067,Malawi,F,Unemployed,... if she argues with him,7.0
+7068,Malawi,F,Employed for cash,... if she burns the food,5.2
+7069,Malawi,F,Employed for kind,... if she burns the food,5.4
+7070,Malawi,F,Unemployed,... if she burns the food,6.0
+7071,Malawi,F,Employed for cash,... if she goes out without telling him,6.2
+7072,Malawi,F,Employed for kind,... if she goes out without telling him,6.7
+7073,Malawi,F,Unemployed,... if she goes out without telling him,7.6
+7074,Malawi,F,Employed for cash,... if she neglects the children,8.9
+7075,Malawi,F,Employed for kind,... if she neglects the children,8.7
+7076,Malawi,F,Unemployed,... if she neglects the children,8.8
+7077,Malawi,F,Employed for cash,... if she refuses to have sex with him,8.4
+7078,Malawi,F,Employed for kind,... if she refuses to have sex with him,8.6
+7079,Malawi,F,Unemployed,... if she refuses to have sex with him,8.0
+7152,Malawi,M,Employed for cash,... for at least one specific reason,10.6
+7153,Malawi,M,Employed for kind,... for at least one specific reason,14.9
+7154,Malawi,M,Unemployed,... for at least one specific reason,18.5
+7155,Malawi,M,Employed for cash,... if she argues with him,4.0
+7156,Malawi,M,Employed for kind,... if she argues with him,6.0
+7157,Malawi,M,Unemployed,... if she argues with him,8.7
+7158,Malawi,M,Employed for cash,... if she burns the food,1.9
+7159,Malawi,M,Employed for kind,... if she burns the food,2.3
+7160,Malawi,M,Unemployed,... if she burns the food,3.9
+7161,Malawi,M,Employed for cash,... if she goes out without telling him,3.8
+7162,Malawi,M,Employed for kind,... if she goes out without telling him,6.0
+7163,Malawi,M,Unemployed,... if she goes out without telling him,5.9
+7164,Malawi,M,Employed for cash,... if she neglects the children,4.6
+7165,Malawi,M,Employed for kind,... if she neglects the children,7.6
+7166,Malawi,M,Unemployed,... if she neglects the children,11.1
+7167,Malawi,M,Employed for cash,... if she refuses to have sex with him,4.1
+7168,Malawi,M,Employed for kind,... if she refuses to have sex with him,5.4
+7169,Malawi,M,Unemployed,... if she refuses to have sex with him,6.6
+7242,Maldives,F,Employed for cash,... for at least one specific reason,23.2
+7243,Maldives,F,Employed for kind,... for at least one specific reason,27.6
+7244,Maldives,F,Unemployed,... for at least one specific reason,20.8
+7245,Maldives,F,Employed for cash,... if she argues with him,14.9
+7246,Maldives,F,Employed for kind,... if she argues with him,14.9
+7247,Maldives,F,Unemployed,... if she argues with him,14.9
+7248,Maldives,F,Employed for cash,... if she burns the food,14.9
+7249,Maldives,F,Employed for kind,... if she burns the food,14.9
+7250,Maldives,F,Unemployed,... if she burns the food,14.9
+7251,Maldives,F,Employed for cash,... if she goes out without telling him,4.5
+7252,Maldives,F,Employed for kind,... if she goes out without telling him,5.1
+7253,Maldives,F,Unemployed,... if she goes out without telling him,4.7
+7254,Maldives,F,Employed for cash,... if she neglects the children,17.3
+7255,Maldives,F,Employed for kind,... if she neglects the children,14.3
+7256,Maldives,F,Unemployed,... if she neglects the children,14.8
+7257,Maldives,F,Employed for cash,... if she refuses to have sex with him,10.2
+7258,Maldives,F,Employed for kind,... if she refuses to have sex with him,16.7
+7259,Maldives,F,Unemployed,... if she refuses to have sex with him,9.9
+7332,Maldives,M,Employed for cash,... for at least one specific reason,16.8
+7333,Maldives,M,Employed for kind,... for at least one specific reason,15.3
+7334,Maldives,M,Unemployed,... for at least one specific reason,24.7
+7335,Maldives,M,Employed for cash,... if she argues with him,14.9
+7336,Maldives,M,Employed for kind,... if she argues with him,14.9
+7337,Maldives,M,Unemployed,... if she argues with him,14.9
+7338,Maldives,M,Employed for cash,... if she burns the food,14.9
+7339,Maldives,M,Employed for kind,... if she burns the food,14.9
+7340,Maldives,M,Unemployed,... if she burns the food,14.9
+7341,Maldives,M,Employed for cash,... if she goes out without telling him,2.3
+7342,Maldives,M,Employed for kind,... if she goes out without telling him,3.6
+7343,Maldives,M,Unemployed,... if she goes out without telling him,4.6
+7344,Maldives,M,Employed for cash,... if she neglects the children,13.2
+7345,Maldives,M,Employed for kind,... if she neglects the children,12.0
+7346,Maldives,M,Unemployed,... if she neglects the children,20.2
+7347,Maldives,M,Employed for cash,... if she refuses to have sex with him,4.3
+7348,Maldives,M,Employed for kind,... if she refuses to have sex with him,7.0
+7349,Maldives,M,Unemployed,... if she refuses to have sex with him,7.4
+7422,Mali,F,Employed for cash,... for at least one specific reason,56.35000000000001
+7423,Mali,F,Employed for kind,... for at least one specific reason,56.35000000000001
+7424,Mali,F,Unemployed,... for at least one specific reason,56.35000000000001
+7425,Mali,F,Employed for cash,... if she argues with him,56.35000000000001
+7426,Mali,F,Employed for kind,... if she argues with him,56.35000000000001
+7427,Mali,F,Unemployed,... if she argues with him,56.35000000000001
+7428,Mali,F,Employed for cash,... if she burns the food,22.0
+7429,Mali,F,Employed for kind,... if she burns the food,31.6
+7430,Mali,F,Unemployed,... if she burns the food,19.6
+7431,Mali,F,Employed for cash,... if she goes out without telling him,54.5
+7432,Mali,F,Employed for kind,... if she goes out without telling him,56.35000000000001
+7433,Mali,F,Unemployed,... if she goes out without telling him,50.3
+7434,Mali,F,Employed for cash,... if she neglects the children,52.4
+7435,Mali,F,Employed for kind,... if she neglects the children,56.35000000000001
+7436,Mali,F,Unemployed,... if she neglects the children,48.8
+7437,Mali,F,Employed for cash,... if she refuses to have sex with him,56.35000000000001
+7438,Mali,F,Employed for kind,... if she refuses to have sex with him,56.35000000000001
+7439,Mali,F,Unemployed,... if she refuses to have sex with him,56.35000000000001
+7512,Mali,M,Employed for cash,... for at least one specific reason,43.1
+7513,Mali,M,Employed for kind,... for at least one specific reason,54.7
+7514,Mali,M,Unemployed,... for at least one specific reason,36.4
+7515,Mali,M,Employed for cash,... if she argues with him,34.7
+7516,Mali,M,Employed for kind,... if she argues with him,44.9
+7517,Mali,M,Unemployed,... if she argues with him,32.8
+7518,Mali,M,Employed for cash,... if she burns the food,9.0
+7519,Mali,M,Employed for kind,... if she burns the food,15.9
+7520,Mali,M,Unemployed,... if she burns the food,4.9
+7521,Mali,M,Employed for cash,... if she goes out without telling him,19.9
+7522,Mali,M,Employed for kind,... if she goes out without telling him,27.2
+7523,Mali,M,Unemployed,... if she goes out without telling him,10.8
+7524,Mali,M,Employed for cash,... if she neglects the children,21.6
+7525,Mali,M,Employed for kind,... if she neglects the children,32.5
+7526,Mali,M,Unemployed,... if she neglects the children,14.4
+7527,Mali,M,Employed for cash,... if she refuses to have sex with him,20.8
+7528,Mali,M,Employed for kind,... if she refuses to have sex with him,30.6
+7529,Mali,M,Unemployed,... if she refuses to have sex with him,11.8
+7602,Moldova,F,Employed for cash,... for at least one specific reason,18.0
+7603,Moldova,F,Employed for kind,... for at least one specific reason,28.7
+7604,Moldova,F,Unemployed,... for at least one specific reason,22.7
+7605,Moldova,F,Employed for cash,... if she argues with him,4.3
+7606,Moldova,F,Employed for kind,... if she argues with him,7.4
+7607,Moldova,F,Unemployed,... if she argues with him,5.6
+7608,Moldova,F,Employed for cash,... if she burns the food,3.8
+7609,Moldova,F,Employed for kind,... if she burns the food,6.1
+7610,Moldova,F,Unemployed,... if she burns the food,4.5
+7611,Moldova,F,Employed for cash,... if she goes out without telling him,5.9
+7612,Moldova,F,Employed for kind,... if she goes out without telling him,11.9
+7613,Moldova,F,Unemployed,... if she goes out without telling him,8.2
+7614,Moldova,F,Employed for cash,... if she neglects the children,15.1
+7615,Moldova,F,Employed for kind,... if she neglects the children,25.1
+7616,Moldova,F,Unemployed,... if she neglects the children,20.0
+7617,Moldova,F,Employed for cash,... if she refuses to have sex with him,2.6
+7618,Moldova,F,Employed for kind,... if she refuses to have sex with him,5.8
+7619,Moldova,F,Unemployed,... if she refuses to have sex with him,3.0
+7692,Moldova,M,Employed for cash,... for at least one specific reason,21.8
+7693,Moldova,M,Employed for kind,... for at least one specific reason,33.4
+7694,Moldova,M,Unemployed,... for at least one specific reason,22.5
+7695,Moldova,M,Employed for cash,... if she argues with him,7.3
+7696,Moldova,M,Employed for kind,... if she argues with him,11.9
+7697,Moldova,M,Unemployed,... if she argues with him,7.6
+7698,Moldova,M,Employed for cash,... if she burns the food,2.8
+7699,Moldova,M,Employed for kind,... if she burns the food,3.2
+7700,Moldova,M,Unemployed,... if she burns the food,2.4
+7701,Moldova,M,Employed for cash,... if she goes out without telling him,10.4
+7702,Moldova,M,Employed for kind,... if she goes out without telling him,10.7
+7703,Moldova,M,Unemployed,... if she goes out without telling him,9.1
+7704,Moldova,M,Employed for cash,... if she neglects the children,17.6
+7705,Moldova,M,Employed for kind,... if she neglects the children,28.3
+7706,Moldova,M,Unemployed,... if she neglects the children,18.4
+7707,Moldova,M,Employed for cash,... if she refuses to have sex with him,3.6
+7708,Moldova,M,Employed for kind,... if she refuses to have sex with him,6.4
+7709,Moldova,M,Unemployed,... if she refuses to have sex with him,3.0
+7782,Morocco,F,Employed for cash,... for at least one specific reason,50.3
+7783,Morocco,F,Employed for kind,... for at least one specific reason,56.35000000000001
+7784,Morocco,F,Unemployed,... for at least one specific reason,56.35000000000001
+7785,Morocco,F,Employed for cash,... if she argues with him,37.0
+7786,Morocco,F,Employed for kind,... if she argues with him,56.35000000000001
+7787,Morocco,F,Unemployed,... if she argues with him,52.2
+7788,Morocco,F,Employed for cash,... if she burns the food,16.0
+7789,Morocco,F,Employed for kind,... if she burns the food,46.4
+7790,Morocco,F,Unemployed,... if she burns the food,24.0
+7791,Morocco,F,Employed for cash,... if she goes out without telling him,33.7
+7792,Morocco,F,Employed for kind,... if she goes out without telling him,56.35000000000001
+7793,Morocco,F,Unemployed,... if she goes out without telling him,51.3
+7794,Morocco,F,Employed for cash,... if she neglects the children,35.7
+7795,Morocco,F,Employed for kind,... if she neglects the children,56.35000000000001
+7796,Morocco,F,Unemployed,... if she neglects the children,50.8
+7797,Morocco,F,Employed for cash,... if she refuses to have sex with him,32.6
+7798,Morocco,F,Employed for kind,... if she refuses to have sex with him,56.35000000000001
+7799,Morocco,F,Unemployed,... if she refuses to have sex with him,43.5
+7872,Morocco,M,Employed for cash,... for at least one specific reason,14.9
+7873,Morocco,M,Employed for kind,... for at least one specific reason,14.9
+7874,Morocco,M,Unemployed,... for at least one specific reason,14.9
+7875,Morocco,M,Employed for cash,... if she argues with him,14.9
+7876,Morocco,M,Employed for kind,... if she argues with him,14.9
+7877,Morocco,M,Unemployed,... if she argues with him,14.9
+7878,Morocco,M,Employed for cash,... if she burns the food,14.9
+7879,Morocco,M,Employed for kind,... if she burns the food,14.9
+7880,Morocco,M,Unemployed,... if she burns the food,14.9
+7881,Morocco,M,Employed for cash,... if she goes out without telling him,14.9
+7882,Morocco,M,Employed for kind,... if she goes out without telling him,14.9
+7883,Morocco,M,Unemployed,... if she goes out without telling him,14.9
+7884,Morocco,M,Employed for cash,... if she neglects the children,14.9
+7885,Morocco,M,Employed for kind,... if she neglects the children,14.9
+7886,Morocco,M,Unemployed,... if she neglects the children,14.9
+7887,Morocco,M,Employed for cash,... if she refuses to have sex with him,14.9
+7888,Morocco,M,Employed for kind,... if she refuses to have sex with him,14.9
+7889,Morocco,M,Unemployed,... if she refuses to have sex with him,14.9
+7962,Mozambique,F,Employed for cash,... for at least one specific reason,15.3
+7963,Mozambique,F,Employed for kind,... for at least one specific reason,16.2
+7964,Mozambique,F,Unemployed,... for at least one specific reason,11.3
+7965,Mozambique,F,Employed for cash,... if she argues with him,8.2
+7966,Mozambique,F,Employed for kind,... if she argues with him,6.0
+7967,Mozambique,F,Unemployed,... if she argues with him,5.9
+7968,Mozambique,F,Employed for cash,... if she burns the food,2.2
+7969,Mozambique,F,Employed for kind,... if she burns the food,3.6
+7970,Mozambique,F,Unemployed,... if she burns the food,2.1
+7971,Mozambique,F,Employed for cash,... if she goes out without telling him,10.3
+7972,Mozambique,F,Employed for kind,... if she goes out without telling him,10.1
+7973,Mozambique,F,Unemployed,... if she goes out without telling him,5.2
+7974,Mozambique,F,Employed for cash,... if she neglects the children,5.1
+7975,Mozambique,F,Employed for kind,... if she neglects the children,5.8
+7976,Mozambique,F,Unemployed,... if she neglects the children,3.3
+7977,Mozambique,F,Employed for cash,... if she refuses to have sex with him,5.3
+7978,Mozambique,F,Employed for kind,... if she refuses to have sex with him,7.2
+7979,Mozambique,F,Unemployed,... if she refuses to have sex with him,4.8
+8052,Mozambique,M,Employed for cash,... for at least one specific reason,15.8
+8053,Mozambique,M,Employed for kind,... for at least one specific reason,18.2
+8054,Mozambique,M,Unemployed,... for at least one specific reason,18.0
+8055,Mozambique,M,Employed for cash,... if she argues with him,8.4
+8056,Mozambique,M,Employed for kind,... if she argues with him,6.3
+8057,Mozambique,M,Unemployed,... if she argues with him,10.8
+8058,Mozambique,M,Employed for cash,... if she burns the food,5.5
+8059,Mozambique,M,Employed for kind,... if she burns the food,5.6
+8060,Mozambique,M,Unemployed,... if she burns the food,5.4
+8061,Mozambique,M,Employed for cash,... if she goes out without telling him,6.9
+8062,Mozambique,M,Employed for kind,... if she goes out without telling him,11.4
+8063,Mozambique,M,Unemployed,... if she goes out without telling him,7.6
+8064,Mozambique,M,Employed for cash,... if she neglects the children,7.0
+8065,Mozambique,M,Employed for kind,... if she neglects the children,10.3
+8066,Mozambique,M,Unemployed,... if she neglects the children,6.9
+8067,Mozambique,M,Employed for cash,... if she refuses to have sex with him,6.4
+8068,Mozambique,M,Employed for kind,... if she refuses to have sex with him,6.9
+8069,Mozambique,M,Unemployed,... if she refuses to have sex with him,7.5
+8142,Myanmar,F,Employed for cash,... for at least one specific reason,52.1
+8143,Myanmar,F,Employed for kind,... for at least one specific reason,56.35000000000001
+8144,Myanmar,F,Unemployed,... for at least one specific reason,47.7
+8145,Myanmar,F,Employed for cash,... if she argues with him,10.1
+8146,Myanmar,F,Employed for kind,... if she argues with him,12.7
+8147,Myanmar,F,Unemployed,... if she argues with him,9.6
+8148,Myanmar,F,Employed for cash,... if she burns the food,13.2
+8149,Myanmar,F,Employed for kind,... if she burns the food,15.4
+8150,Myanmar,F,Unemployed,... if she burns the food,11.1
+8151,Myanmar,F,Employed for cash,... if she goes out without telling him,22.5
+8152,Myanmar,F,Employed for kind,... if she goes out without telling him,24.7
+8153,Myanmar,F,Unemployed,... if she goes out without telling him,18.7
+8154,Myanmar,F,Employed for cash,... if she neglects the children,42.9
+8155,Myanmar,F,Employed for kind,... if she neglects the children,45.0
+8156,Myanmar,F,Unemployed,... if she neglects the children,39.4
+8157,Myanmar,F,Employed for cash,... if she refuses to have sex with him,10.3
+8158,Myanmar,F,Employed for kind,... if she refuses to have sex with him,12.1
+8159,Myanmar,F,Unemployed,... if she refuses to have sex with him,10.2
+8232,Myanmar,M,Employed for cash,... for at least one specific reason,48.4
+8233,Myanmar,M,Employed for kind,... for at least one specific reason,53.4
+8234,Myanmar,M,Unemployed,... for at least one specific reason,52.3
+8235,Myanmar,M,Employed for cash,... if she argues with him,12.7
+8236,Myanmar,M,Employed for kind,... if she argues with him,18.1
+8237,Myanmar,M,Unemployed,... if she argues with him,15.4
+8238,Myanmar,M,Employed for cash,... if she burns the food,7.9
+8239,Myanmar,M,Employed for kind,... if she burns the food,10.1
+8240,Myanmar,M,Unemployed,... if she burns the food,7.6
+8241,Myanmar,M,Employed for cash,... if she goes out without telling him,16.3
+8242,Myanmar,M,Employed for kind,... if she goes out without telling him,19.8
+8243,Myanmar,M,Unemployed,... if she goes out without telling him,16.5
+8244,Myanmar,M,Employed for cash,... if she neglects the children,39.6
+8245,Myanmar,M,Employed for kind,... if she neglects the children,41.1
+8246,Myanmar,M,Unemployed,... if she neglects the children,40.4
+8247,Myanmar,M,Employed for cash,... if she refuses to have sex with him,9.7
+8248,Myanmar,M,Employed for kind,... if she refuses to have sex with him,12.7
+8249,Myanmar,M,Unemployed,... if she refuses to have sex with him,11.9
+8322,Namibia,F,Employed for cash,... for at least one specific reason,23.5
+8323,Namibia,F,Employed for kind,... for at least one specific reason,38.5
+8324,Namibia,F,Unemployed,... for at least one specific reason,31.2
+8325,Namibia,F,Employed for cash,... if she argues with him,8.1
+8326,Namibia,F,Employed for kind,... if she argues with him,14.2
+8327,Namibia,F,Unemployed,... if she argues with him,14.0
+8328,Namibia,F,Employed for cash,... if she burns the food,6.5
+8329,Namibia,F,Employed for kind,... if she burns the food,18.9
+8330,Namibia,F,Unemployed,... if she burns the food,12.1
+8331,Namibia,F,Employed for cash,... if she goes out without telling him,9.9
+8332,Namibia,F,Employed for kind,... if she goes out without telling him,17.8
+8333,Namibia,F,Unemployed,... if she goes out without telling him,15.0
+8334,Namibia,F,Employed for cash,... if she neglects the children,17.1
+8335,Namibia,F,Employed for kind,... if she neglects the children,28.1
+8336,Namibia,F,Unemployed,... if she neglects the children,21.5
+8337,Namibia,F,Employed for cash,... if she refuses to have sex with him,5.9
+8338,Namibia,F,Employed for kind,... if she refuses to have sex with him,13.3
+8339,Namibia,F,Unemployed,... if she refuses to have sex with him,8.9
+8412,Namibia,M,Employed for cash,... for at least one specific reason,20.3
+8413,Namibia,M,Employed for kind,... for at least one specific reason,35.9
+8414,Namibia,M,Unemployed,... for at least one specific reason,23.8
+8415,Namibia,M,Employed for cash,... if she argues with him,8.0
+8416,Namibia,M,Employed for kind,... if she argues with him,16.9
+8417,Namibia,M,Unemployed,... if she argues with him,11.0
+8418,Namibia,M,Employed for cash,... if she burns the food,4.1
+8419,Namibia,M,Employed for kind,... if she burns the food,10.2
+8420,Namibia,M,Unemployed,... if she burns the food,5.1
+8421,Namibia,M,Employed for cash,... if she goes out without telling him,9.5
+8422,Namibia,M,Employed for kind,... if she goes out without telling him,15.7
+8423,Namibia,M,Unemployed,... if she goes out without telling him,9.8
+8424,Namibia,M,Employed for cash,... if she neglects the children,14.2
+8425,Namibia,M,Employed for kind,... if she neglects the children,24.6
+8426,Namibia,M,Unemployed,... if she neglects the children,14.1
+8427,Namibia,M,Employed for cash,... if she refuses to have sex with him,2.5
+8428,Namibia,M,Employed for kind,... if she refuses to have sex with him,7.1
+8429,Namibia,M,Unemployed,... if she refuses to have sex with him,3.3
+8502,Nepal,F,Employed for cash,... for at least one specific reason,28.4
+8503,Nepal,F,Employed for kind,... for at least one specific reason,27.8
+8504,Nepal,F,Unemployed,... for at least one specific reason,29.6
+8505,Nepal,F,Employed for cash,... if she argues with him,8.3
+8506,Nepal,F,Employed for kind,... if she argues with him,7.7
+8507,Nepal,F,Unemployed,... if she argues with him,10.6
+8508,Nepal,F,Employed for cash,... if she burns the food,3.8
+8509,Nepal,F,Employed for kind,... if she burns the food,2.7
+8510,Nepal,F,Unemployed,... if she burns the food,3.8
+8511,Nepal,F,Employed for cash,... if she goes out without telling him,11.9
+8512,Nepal,F,Employed for kind,... if she goes out without telling him,10.9
+8513,Nepal,F,Unemployed,... if she goes out without telling him,12.4
+8514,Nepal,F,Employed for cash,... if she neglects the children,24.3
+8515,Nepal,F,Employed for kind,... if she neglects the children,24.0
+8516,Nepal,F,Unemployed,... if she neglects the children,25.0
+8517,Nepal,F,Employed for cash,... if she refuses to have sex with him,3.1
+8518,Nepal,F,Employed for kind,... if she refuses to have sex with him,2.8
+8519,Nepal,F,Unemployed,... if she refuses to have sex with him,3.2
+8592,Nepal,M,Employed for cash,... for at least one specific reason,20.9
+8593,Nepal,M,Employed for kind,... for at least one specific reason,29.3
+8594,Nepal,M,Unemployed,... for at least one specific reason,24.9
+8595,Nepal,M,Employed for cash,... if she argues with him,7.9
+8596,Nepal,M,Employed for kind,... if she argues with him,12.2
+8597,Nepal,M,Unemployed,... if she argues with him,8.5
+8598,Nepal,M,Employed for cash,... if she burns the food,1.5
+8599,Nepal,M,Employed for kind,... if she burns the food,1.9
+8600,Nepal,M,Unemployed,... if she burns the food,1.5
+8601,Nepal,M,Employed for cash,... if she goes out without telling him,9.0
+8602,Nepal,M,Employed for kind,... if she goes out without telling him,11.5
+8603,Nepal,M,Unemployed,... if she goes out without telling him,8.8
+8604,Nepal,M,Employed for cash,... if she neglects the children,16.5
+8605,Nepal,M,Employed for kind,... if she neglects the children,23.7
+8606,Nepal,M,Unemployed,... if she neglects the children,22.6
+8607,Nepal,M,Employed for cash,... if she refuses to have sex with him,3.2
+8608,Nepal,M,Employed for kind,... if she refuses to have sex with him,5.0
+8609,Nepal,M,Unemployed,... if she refuses to have sex with him,5.1
+8682,Nicaragua,F,Employed for cash,... for at least one specific reason,12.5
+8683,Nicaragua,F,Employed for kind,... for at least one specific reason,13.9
+8684,Nicaragua,F,Unemployed,... for at least one specific reason,12.5
+8685,Nicaragua,F,Employed for cash,... if she argues with him,3.5
+8686,Nicaragua,F,Employed for kind,... if she argues with him,6.4
+8687,Nicaragua,F,Unemployed,... if she argues with him,4.9
+8688,Nicaragua,F,Employed for cash,... if she burns the food,3.5
+8689,Nicaragua,F,Employed for kind,... if she burns the food,4.9
+8690,Nicaragua,F,Unemployed,... if she burns the food,5.3
+8691,Nicaragua,F,Employed for cash,... if she goes out without telling him,4.5
+8692,Nicaragua,F,Employed for kind,... if she goes out without telling him,6.2
+8693,Nicaragua,F,Unemployed,... if she goes out without telling him,6.8
+8694,Nicaragua,F,Employed for cash,... if she neglects the children,9.8
+8695,Nicaragua,F,Employed for kind,... if she neglects the children,10.1
+8696,Nicaragua,F,Unemployed,... if she neglects the children,9.1
+8697,Nicaragua,F,Employed for cash,... if she refuses to have sex with him,2.3
+8698,Nicaragua,F,Employed for kind,... if she refuses to have sex with him,3.6
+8699,Nicaragua,F,Unemployed,... if she refuses to have sex with him,3.2
+8772,Nicaragua,M,Employed for cash,... for at least one specific reason,14.9
+8773,Nicaragua,M,Employed for kind,... for at least one specific reason,14.9
+8774,Nicaragua,M,Unemployed,... for at least one specific reason,14.9
+8775,Nicaragua,M,Employed for cash,... if she argues with him,14.9
+8776,Nicaragua,M,Employed for kind,... if she argues with him,14.9
+8777,Nicaragua,M,Unemployed,... if she argues with him,14.9
+8778,Nicaragua,M,Employed for cash,... if she burns the food,14.9
+8779,Nicaragua,M,Employed for kind,... if she burns the food,14.9
+8780,Nicaragua,M,Unemployed,... if she burns the food,14.9
+8781,Nicaragua,M,Employed for cash,... if she goes out without telling him,14.9
+8782,Nicaragua,M,Employed for kind,... if she goes out without telling him,14.9
+8783,Nicaragua,M,Unemployed,... if she goes out without telling him,14.9
+8784,Nicaragua,M,Employed for cash,... if she neglects the children,14.9
+8785,Nicaragua,M,Employed for kind,... if she neglects the children,14.9
+8786,Nicaragua,M,Unemployed,... if she neglects the children,14.9
+8787,Nicaragua,M,Employed for cash,... if she refuses to have sex with him,14.9
+8788,Nicaragua,M,Employed for kind,... if she refuses to have sex with him,14.9
+8789,Nicaragua,M,Unemployed,... if she refuses to have sex with him,14.9
+8862,Niger,F,Employed for cash,... for at least one specific reason,56.35000000000001
+8863,Niger,F,Employed for kind,... for at least one specific reason,56.35000000000001
+8864,Niger,F,Unemployed,... for at least one specific reason,56.35000000000001
+8865,Niger,F,Employed for cash,... if she argues with him,51.9
+8866,Niger,F,Employed for kind,... if she argues with him,55.2
+8867,Niger,F,Unemployed,... if she argues with him,49.6
+8868,Niger,F,Employed for cash,... if she burns the food,34.4
+8869,Niger,F,Employed for kind,... if she burns the food,43.5
+8870,Niger,F,Unemployed,... if she burns the food,34.3
+8871,Niger,F,Employed for cash,... if she goes out without telling him,42.0
+8872,Niger,F,Employed for kind,... if she goes out without telling him,46.8
+8873,Niger,F,Unemployed,... if she goes out without telling him,42.8
+8874,Niger,F,Employed for cash,... if she neglects the children,41.7
+8875,Niger,F,Employed for kind,... if she neglects the children,48.3
+8876,Niger,F,Unemployed,... if she neglects the children,41.8
+8877,Niger,F,Employed for cash,... if she refuses to have sex with him,53.0
+8878,Niger,F,Employed for kind,... if she refuses to have sex with him,51.7
+8879,Niger,F,Unemployed,... if she refuses to have sex with him,48.9
+8952,Niger,M,Employed for cash,... for at least one specific reason,23.3
+8953,Niger,M,Employed for kind,... for at least one specific reason,30.4
+8954,Niger,M,Unemployed,... for at least one specific reason,30.8
+8955,Niger,M,Employed for cash,... if she argues with him,16.6
+8956,Niger,M,Employed for kind,... if she argues with him,22.7
+8957,Niger,M,Unemployed,... if she argues with him,24.7
+8958,Niger,M,Employed for cash,... if she burns the food,6.8
+8959,Niger,M,Employed for kind,... if she burns the food,12.3
+8960,Niger,M,Unemployed,... if she burns the food,8.2
+8961,Niger,M,Employed for cash,... if she goes out without telling him,12.8
+8962,Niger,M,Employed for kind,... if she goes out without telling him,19.3
+8963,Niger,M,Unemployed,... if she goes out without telling him,17.6
+8964,Niger,M,Employed for cash,... if she neglects the children,13.0
+8965,Niger,M,Employed for kind,... if she neglects the children,17.5
+8966,Niger,M,Unemployed,... if she neglects the children,21.5
+8967,Niger,M,Employed for cash,... if she refuses to have sex with him,11.5
+8968,Niger,M,Employed for kind,... if she refuses to have sex with him,16.6
+8969,Niger,M,Unemployed,... if she refuses to have sex with him,14.6
+9042,Nigeria,F,Employed for cash,... for at least one specific reason,33.6
+9043,Nigeria,F,Employed for kind,... for at least one specific reason,50.2
+9044,Nigeria,F,Unemployed,... for at least one specific reason,34.2
+9045,Nigeria,F,Employed for cash,... if she argues with him,20.8
+9046,Nigeria,F,Employed for kind,... if she argues with him,33.8
+9047,Nigeria,F,Unemployed,... if she argues with him,20.2
+9048,Nigeria,F,Employed for cash,... if she burns the food,13.7
+9049,Nigeria,F,Employed for kind,... if she burns the food,20.8
+9050,Nigeria,F,Unemployed,... if she burns the food,13.9
+9051,Nigeria,F,Employed for cash,... if she goes out without telling him,24.2
+9052,Nigeria,F,Employed for kind,... if she goes out without telling him,35.5
+9053,Nigeria,F,Unemployed,... if she goes out without telling him,25.4
+9054,Nigeria,F,Employed for cash,... if she neglects the children,24.2
+9055,Nigeria,F,Employed for kind,... if she neglects the children,37.0
+9056,Nigeria,F,Unemployed,... if she neglects the children,23.3
+9057,Nigeria,F,Employed for cash,... if she refuses to have sex with him,18.2
+9058,Nigeria,F,Employed for kind,... if she refuses to have sex with him,24.3
+9059,Nigeria,F,Unemployed,... if she refuses to have sex with him,18.9
+9132,Nigeria,M,Employed for cash,... for at least one specific reason,24.3
+9133,Nigeria,M,Employed for kind,... for at least one specific reason,36.8
+9134,Nigeria,M,Unemployed,... for at least one specific reason,20.9
+9135,Nigeria,M,Employed for cash,... if she argues with him,13.0
+9136,Nigeria,M,Employed for kind,... if she argues with him,19.7
+9137,Nigeria,M,Unemployed,... if she argues with him,10.7
+9138,Nigeria,M,Employed for cash,... if she burns the food,7.5
+9139,Nigeria,M,Employed for kind,... if she burns the food,15.5
+9140,Nigeria,M,Unemployed,... if she burns the food,5.8
+9141,Nigeria,M,Employed for cash,... if she goes out without telling him,13.3
+9142,Nigeria,M,Employed for kind,... if she goes out without telling him,22.0
+9143,Nigeria,M,Unemployed,... if she goes out without telling him,9.8
+9144,Nigeria,M,Employed for cash,... if she neglects the children,13.7
+9145,Nigeria,M,Employed for kind,... if she neglects the children,20.6
+9146,Nigeria,M,Unemployed,... if she neglects the children,11.5
+9147,Nigeria,M,Employed for cash,... if she refuses to have sex with him,11.1
+9148,Nigeria,M,Employed for kind,... if she refuses to have sex with him,20.9
+9149,Nigeria,M,Unemployed,... if she refuses to have sex with him,7.0
+9222,Pakistan,F,Employed for cash,... for at least one specific reason,45.4
+9223,Pakistan,F,Employed for kind,... for at least one specific reason,56.35000000000001
+9224,Pakistan,F,Unemployed,... for at least one specific reason,39.4
+9225,Pakistan,F,Employed for cash,... if she argues with him,34.1
+9226,Pakistan,F,Employed for kind,... if she argues with him,51.0
+9227,Pakistan,F,Unemployed,... if she argues with him,30.3
+9228,Pakistan,F,Employed for cash,... if she burns the food,22.8
+9229,Pakistan,F,Employed for kind,... if she burns the food,29.9
+9230,Pakistan,F,Unemployed,... if she burns the food,17.0
+9231,Pakistan,F,Employed for cash,... if she goes out without telling him,33.3
+9232,Pakistan,F,Employed for kind,... if she goes out without telling him,45.3
+9233,Pakistan,F,Unemployed,... if she goes out without telling him,30.6
+9234,Pakistan,F,Employed for cash,... if she neglects the children,32.9
+9235,Pakistan,F,Employed for kind,... if she neglects the children,43.5
+9236,Pakistan,F,Unemployed,... if she neglects the children,26.1
+9237,Pakistan,F,Employed for cash,... if she refuses to have sex with him,30.6
+9238,Pakistan,F,Employed for kind,... if she refuses to have sex with him,45.0
+9239,Pakistan,F,Unemployed,... if she refuses to have sex with him,26.0
+9312,Pakistan,M,Employed for cash,... for at least one specific reason,37.8
+9313,Pakistan,M,Employed for kind,... for at least one specific reason,41.6
+9314,Pakistan,M,Unemployed,... for at least one specific reason,22.0
+9315,Pakistan,M,Employed for cash,... if she argues with him,20.3
+9316,Pakistan,M,Employed for kind,... if she argues with him,34.2
+9317,Pakistan,M,Unemployed,... if she argues with him,11.0
+9318,Pakistan,M,Employed for cash,... if she burns the food,4.2
+9319,Pakistan,M,Employed for kind,... if she burns the food,2.4
+9320,Pakistan,M,Unemployed,... if she burns the food,0.1
+9321,Pakistan,M,Employed for cash,... if she goes out without telling him,27.9
+9322,Pakistan,M,Employed for kind,... if she goes out without telling him,31.3
+9323,Pakistan,M,Unemployed,... if she goes out without telling him,15.2
+9324,Pakistan,M,Employed for cash,... if she neglects the children,18.8
+9325,Pakistan,M,Employed for kind,... if she neglects the children,22.7
+9326,Pakistan,M,Unemployed,... if she neglects the children,15.6
+9327,Pakistan,M,Employed for cash,... if she refuses to have sex with him,9.5
+9328,Pakistan,M,Employed for kind,... if she refuses to have sex with him,15.2
+9329,Pakistan,M,Unemployed,... if she refuses to have sex with him,4.0
+9402,Peru,F,Employed for cash,... for at least one specific reason,3.2
+9403,Peru,F,Employed for kind,... for at least one specific reason,6.9
+9404,Peru,F,Unemployed,... for at least one specific reason,2.8
+9405,Peru,F,Employed for cash,... if she argues with him,0.7
+9406,Peru,F,Employed for kind,... if she argues with him,2.1
+9407,Peru,F,Unemployed,... if she argues with him,0.6
+9408,Peru,F,Employed for cash,... if she burns the food,0.9
+9409,Peru,F,Employed for kind,... if she burns the food,2.2
+9410,Peru,F,Unemployed,... if she burns the food,0.9
+9411,Peru,F,Employed for cash,... if she goes out without telling him,1.0
+9412,Peru,F,Employed for kind,... if she goes out without telling him,2.1
+9413,Peru,F,Unemployed,... if she goes out without telling him,0.9
+9414,Peru,F,Employed for cash,... if she neglects the children,2.1
+9415,Peru,F,Employed for kind,... if she neglects the children,4.4
+9416,Peru,F,Unemployed,... if she neglects the children,1.7
+9417,Peru,F,Employed for cash,... if she refuses to have sex with him,0.6
+9418,Peru,F,Employed for kind,... if she refuses to have sex with him,1.1
+9419,Peru,F,Unemployed,... if she refuses to have sex with him,0.6
+9492,Peru,M,Employed for cash,... for at least one specific reason,14.9
+9493,Peru,M,Employed for kind,... for at least one specific reason,14.9
+9494,Peru,M,Unemployed,... for at least one specific reason,14.9
+9495,Peru,M,Employed for cash,... if she argues with him,14.9
+9496,Peru,M,Employed for kind,... if she argues with him,14.9
+9497,Peru,M,Unemployed,... if she argues with him,14.9
+9498,Peru,M,Employed for cash,... if she burns the food,14.9
+9499,Peru,M,Employed for kind,... if she burns the food,14.9
+9500,Peru,M,Unemployed,... if she burns the food,14.9
+9501,Peru,M,Employed for cash,... if she goes out without telling him,14.9
+9502,Peru,M,Employed for kind,... if she goes out without telling him,14.9
+9503,Peru,M,Unemployed,... if she goes out without telling him,14.9
+9504,Peru,M,Employed for cash,... if she neglects the children,14.9
+9505,Peru,M,Employed for kind,... if she neglects the children,14.9
+9506,Peru,M,Unemployed,... if she neglects the children,14.9
+9507,Peru,M,Employed for cash,... if she refuses to have sex with him,14.9
+9508,Peru,M,Employed for kind,... if she refuses to have sex with him,14.9
+9509,Peru,M,Unemployed,... if she refuses to have sex with him,14.9
+9582,Philippines,F,Employed for cash,... for at least one specific reason,9.4
+9583,Philippines,F,Employed for kind,... for at least one specific reason,15.0
+9584,Philippines,F,Unemployed,... for at least one specific reason,11.4
+9585,Philippines,F,Employed for cash,... if she argues with him,2.0
+9586,Philippines,F,Employed for kind,... if she argues with him,2.9
+9587,Philippines,F,Unemployed,... if she argues with him,2.2
+9588,Philippines,F,Employed for cash,... if she burns the food,1.1
+9589,Philippines,F,Employed for kind,... if she burns the food,1.8
+9590,Philippines,F,Unemployed,... if she burns the food,1.5
+9591,Philippines,F,Employed for cash,... if she goes out without telling him,2.5
+9592,Philippines,F,Employed for kind,... if she goes out without telling him,5.3
+9593,Philippines,F,Unemployed,... if she goes out without telling him,3.8
+9594,Philippines,F,Employed for cash,... if she neglects the children,7.1
+9595,Philippines,F,Employed for kind,... if she neglects the children,11.4
+9596,Philippines,F,Unemployed,... if she neglects the children,9.4
+9597,Philippines,F,Employed for cash,... if she refuses to have sex with him,1.0
+9598,Philippines,F,Employed for kind,... if she refuses to have sex with him,1.6
+9599,Philippines,F,Unemployed,... if she refuses to have sex with him,1.6
+9672,Philippines,M,Employed for cash,... for at least one specific reason,14.9
+9673,Philippines,M,Employed for kind,... for at least one specific reason,14.9
+9674,Philippines,M,Unemployed,... for at least one specific reason,14.9
+9675,Philippines,M,Employed for cash,... if she argues with him,14.9
+9676,Philippines,M,Employed for kind,... if she argues with him,14.9
+9677,Philippines,M,Unemployed,... if she argues with him,14.9
+9678,Philippines,M,Employed for cash,... if she burns the food,14.9
+9679,Philippines,M,Employed for kind,... if she burns the food,14.9
+9680,Philippines,M,Unemployed,... if she burns the food,14.9
+9681,Philippines,M,Employed for cash,... if she goes out without telling him,14.9
+9682,Philippines,M,Employed for kind,... if she goes out without telling him,14.9
+9683,Philippines,M,Unemployed,... if she goes out without telling him,14.9
+9684,Philippines,M,Employed for cash,... if she neglects the children,14.9
+9685,Philippines,M,Employed for kind,... if she neglects the children,14.9
+9686,Philippines,M,Unemployed,... if she neglects the children,14.9
+9687,Philippines,M,Employed for cash,... if she refuses to have sex with him,14.9
+9688,Philippines,M,Employed for kind,... if she refuses to have sex with him,14.9
+9689,Philippines,M,Unemployed,... if she refuses to have sex with him,14.9
+9762,Rwanda,F,Employed for cash,... for at least one specific reason,40.4
+9763,Rwanda,F,Employed for kind,... for at least one specific reason,46.1
+9764,Rwanda,F,Unemployed,... for at least one specific reason,35.6
+9765,Rwanda,F,Employed for cash,... if she argues with him,19.8
+9766,Rwanda,F,Employed for kind,... if she argues with him,23.3
+9767,Rwanda,F,Unemployed,... if she argues with him,16.9
+9768,Rwanda,F,Employed for cash,... if she burns the food,8.5
+9769,Rwanda,F,Employed for kind,... if she burns the food,10.7
+9770,Rwanda,F,Unemployed,... if she burns the food,6.6
+9771,Rwanda,F,Employed for cash,... if she goes out without telling him,21.6
+9772,Rwanda,F,Employed for kind,... if she goes out without telling him,26.0
+9773,Rwanda,F,Unemployed,... if she goes out without telling him,17.4
+9774,Rwanda,F,Employed for cash,... if she neglects the children,27.7
+9775,Rwanda,F,Employed for kind,... if she neglects the children,35.0
+9776,Rwanda,F,Unemployed,... if she neglects the children,24.8
+9777,Rwanda,F,Employed for cash,... if she refuses to have sex with him,24.6
+9778,Rwanda,F,Employed for kind,... if she refuses to have sex with him,26.1
+9779,Rwanda,F,Unemployed,... if she refuses to have sex with him,20.1
+9852,Rwanda,M,Employed for cash,... for at least one specific reason,17.2
+9853,Rwanda,M,Employed for kind,... for at least one specific reason,19.1
+9854,Rwanda,M,Unemployed,... for at least one specific reason,20.1
+9855,Rwanda,M,Employed for cash,... if she argues with him,5.3
+9856,Rwanda,M,Employed for kind,... if she argues with him,5.3
+9857,Rwanda,M,Unemployed,... if she argues with him,6.3
+9858,Rwanda,M,Employed for cash,... if she burns the food,1.6
+9859,Rwanda,M,Employed for kind,... if she burns the food,1.8
+9860,Rwanda,M,Unemployed,... if she burns the food,2.1
+9861,Rwanda,M,Employed for cash,... if she goes out without telling him,6.8
+9862,Rwanda,M,Employed for kind,... if she goes out without telling him,7.1
+9863,Rwanda,M,Unemployed,... if she goes out without telling him,7.6
+9864,Rwanda,M,Employed for cash,... if she neglects the children,11.8
+9865,Rwanda,M,Employed for kind,... if she neglects the children,12.8
+9866,Rwanda,M,Unemployed,... if she neglects the children,13.7
+9867,Rwanda,M,Employed for cash,... if she refuses to have sex with him,6.4
+9868,Rwanda,M,Employed for kind,... if she refuses to have sex with him,6.1
+9869,Rwanda,M,Unemployed,... if she refuses to have sex with him,8.8
+9942,Sao Tome and Principe,F,Employed for cash,... for at least one specific reason,19.3
+9943,Sao Tome and Principe,F,Employed for kind,... for at least one specific reason,35.8
+9944,Sao Tome and Principe,F,Unemployed,... for at least one specific reason,18.7
+9945,Sao Tome and Principe,F,Employed for cash,... if she argues with him,7.1
+9946,Sao Tome and Principe,F,Employed for kind,... if she argues with him,12.7
+9947,Sao Tome and Principe,F,Unemployed,... if she argues with him,6.5
+9948,Sao Tome and Principe,F,Employed for cash,... if she burns the food,5.5
+9949,Sao Tome and Principe,F,Employed for kind,... if she burns the food,10.9
+9950,Sao Tome and Principe,F,Unemployed,... if she burns the food,7.3
+9951,Sao Tome and Principe,F,Employed for cash,... if she goes out without telling him,10.6
+9952,Sao Tome and Principe,F,Employed for kind,... if she goes out without telling him,11.5
+9953,Sao Tome and Principe,F,Unemployed,... if she goes out without telling him,9.8
+9954,Sao Tome and Principe,F,Employed for cash,... if she neglects the children,11.7
+9955,Sao Tome and Principe,F,Employed for kind,... if she neglects the children,19.1
+9956,Sao Tome and Principe,F,Unemployed,... if she neglects the children,11.3
+9957,Sao Tome and Principe,F,Employed for cash,... if she refuses to have sex with him,5.2
+9958,Sao Tome and Principe,F,Employed for kind,... if she refuses to have sex with him,10.4
+9959,Sao Tome and Principe,F,Unemployed,... if she refuses to have sex with him,5.9
+10032,Sao Tome and Principe,M,Employed for cash,... for at least one specific reason,21.8
+10033,Sao Tome and Principe,M,Employed for kind,... for at least one specific reason,25.0
+10034,Sao Tome and Principe,M,Unemployed,... for at least one specific reason,19.9
+10035,Sao Tome and Principe,M,Employed for cash,... if she argues with him,10.0
+10036,Sao Tome and Principe,M,Employed for kind,... if she argues with him,15.0
+10037,Sao Tome and Principe,M,Unemployed,... if she argues with him,8.2
+10038,Sao Tome and Principe,M,Employed for cash,... if she burns the food,6.4
+10039,Sao Tome and Principe,M,Employed for kind,... if she burns the food,3.0
+10040,Sao Tome and Principe,M,Unemployed,... if she burns the food,8.7
+10041,Sao Tome and Principe,M,Employed for cash,... if she goes out without telling him,12.5
+10042,Sao Tome and Principe,M,Employed for kind,... if she goes out without telling him,11.8
+10043,Sao Tome and Principe,M,Unemployed,... if she goes out without telling him,7.6
+10044,Sao Tome and Principe,M,Employed for cash,... if she neglects the children,14.2
+10045,Sao Tome and Principe,M,Employed for kind,... if she neglects the children,15.4
+10046,Sao Tome and Principe,M,Unemployed,... if she neglects the children,12.6
+10047,Sao Tome and Principe,M,Employed for cash,... if she refuses to have sex with him,5.7
+10048,Sao Tome and Principe,M,Employed for kind,... if she refuses to have sex with him,3.5
+10049,Sao Tome and Principe,M,Unemployed,... if she refuses to have sex with him,4.9
+10122,Senegal,F,Employed for cash,... for at least one specific reason,42.7
+10123,Senegal,F,Employed for kind,... for at least one specific reason,55.8
+10124,Senegal,F,Unemployed,... for at least one specific reason,45.7
+10125,Senegal,F,Employed for cash,... if she argues with him,32.4
+10126,Senegal,F,Employed for kind,... if she argues with him,46.2
+10127,Senegal,F,Unemployed,... if she argues with him,35.1
+10128,Senegal,F,Employed for cash,... if she burns the food,20.3
+10129,Senegal,F,Employed for kind,... if she burns the food,28.6
+10130,Senegal,F,Unemployed,... if she burns the food,21.9
+10131,Senegal,F,Employed for cash,... if she goes out without telling him,30.9
+10132,Senegal,F,Employed for kind,... if she goes out without telling him,44.0
+10133,Senegal,F,Unemployed,... if she goes out without telling him,32.1
+10134,Senegal,F,Employed for cash,... if she neglects the children,32.8
+10135,Senegal,F,Employed for kind,... if she neglects the children,44.7
+10136,Senegal,F,Unemployed,... if she neglects the children,35.0
+10137,Senegal,F,Employed for cash,... if she refuses to have sex with him,33.4
+10138,Senegal,F,Employed for kind,... if she refuses to have sex with him,44.6
+10139,Senegal,F,Unemployed,... if she refuses to have sex with him,33.9
+10212,Senegal,M,Employed for cash,... for at least one specific reason,22.2
+10213,Senegal,M,Employed for kind,... for at least one specific reason,41.1
+10214,Senegal,M,Unemployed,... for at least one specific reason,22.2
+10215,Senegal,M,Employed for cash,... if she argues with him,14.6
+10216,Senegal,M,Employed for kind,... if she argues with him,28.6
+10217,Senegal,M,Unemployed,... if she argues with him,14.2
+10218,Senegal,M,Employed for cash,... if she burns the food,4.5
+10219,Senegal,M,Employed for kind,... if she burns the food,10.9
+10220,Senegal,M,Unemployed,... if she burns the food,4.1
+10221,Senegal,M,Employed for cash,... if she goes out without telling him,10.1
+10222,Senegal,M,Employed for kind,... if she goes out without telling him,23.2
+10223,Senegal,M,Unemployed,... if she goes out without telling him,10.9
+10224,Senegal,M,Employed for cash,... if she neglects the children,13.1
+10225,Senegal,M,Employed for kind,... if she neglects the children,25.7
+10226,Senegal,M,Unemployed,... if she neglects the children,13.6
+10227,Senegal,M,Employed for cash,... if she refuses to have sex with him,8.7
+10228,Senegal,M,Employed for kind,... if she refuses to have sex with him,19.0
+10229,Senegal,M,Unemployed,... if she refuses to have sex with him,6.0
+10302,Sierra Leone,F,Employed for cash,... for at least one specific reason,56.35000000000001
+10303,Sierra Leone,F,Employed for kind,... for at least one specific reason,56.35000000000001
+10304,Sierra Leone,F,Unemployed,... for at least one specific reason,51.3
+10305,Sierra Leone,F,Employed for cash,... if she argues with him,47.5
+10306,Sierra Leone,F,Employed for kind,... if she argues with him,54.3
+10307,Sierra Leone,F,Unemployed,... if she argues with him,36.3
+10308,Sierra Leone,F,Employed for cash,... if she burns the food,17.0
+10309,Sierra Leone,F,Employed for kind,... if she burns the food,23.3
+10310,Sierra Leone,F,Unemployed,... if she burns the food,11.5
+10311,Sierra Leone,F,Employed for cash,... if she goes out without telling him,49.4
+10312,Sierra Leone,F,Employed for kind,... if she goes out without telling him,56.35000000000001
+10313,Sierra Leone,F,Unemployed,... if she goes out without telling him,42.3
+10314,Sierra Leone,F,Employed for cash,... if she neglects the children,51.4
+10315,Sierra Leone,F,Employed for kind,... if she neglects the children,56.35000000000001
+10316,Sierra Leone,F,Unemployed,... if she neglects the children,41.7
+10317,Sierra Leone,F,Employed for cash,... if she refuses to have sex with him,26.2
+10318,Sierra Leone,F,Employed for kind,... if she refuses to have sex with him,30.2
+10319,Sierra Leone,F,Unemployed,... if she refuses to have sex with him,17.9
+10392,Sierra Leone,M,Employed for cash,... for at least one specific reason,34.7
+10393,Sierra Leone,M,Employed for kind,... for at least one specific reason,37.5
+10394,Sierra Leone,M,Unemployed,... for at least one specific reason,27.2
+10395,Sierra Leone,M,Employed for cash,... if she argues with him,24.6
+10396,Sierra Leone,M,Employed for kind,... if she argues with him,27.3
+10397,Sierra Leone,M,Unemployed,... if she argues with him,18.4
+10398,Sierra Leone,M,Employed for cash,... if she burns the food,5.6
+10399,Sierra Leone,M,Employed for kind,... if she burns the food,3.6
+10400,Sierra Leone,M,Unemployed,... if she burns the food,5.0
+10401,Sierra Leone,M,Employed for cash,... if she goes out without telling him,21.3
+10402,Sierra Leone,M,Employed for kind,... if she goes out without telling him,20.7
+10403,Sierra Leone,M,Unemployed,... if she goes out without telling him,14.3
+10404,Sierra Leone,M,Employed for cash,... if she neglects the children,25.3
+10405,Sierra Leone,M,Employed for kind,... if she neglects the children,21.8
+10406,Sierra Leone,M,Unemployed,... if she neglects the children,15.9
+10407,Sierra Leone,M,Employed for cash,... if she refuses to have sex with him,10.3
+10408,Sierra Leone,M,Employed for kind,... if she refuses to have sex with him,10.1
+10409,Sierra Leone,M,Unemployed,... if she refuses to have sex with him,7.0
+10482,South Africa,F,Employed for cash,... for at least one specific reason,5.0
+10483,South Africa,F,Employed for kind,... for at least one specific reason,8.8
+10484,South Africa,F,Unemployed,... for at least one specific reason,5.8
+10485,South Africa,F,Employed for cash,... if she argues with him,1.9
+10486,South Africa,F,Employed for kind,... if she argues with him,2.1
+10487,South Africa,F,Unemployed,... if she argues with him,2.4
+10488,South Africa,F,Employed for cash,... if she burns the food,0.6
+10489,South Africa,F,Employed for kind,... if she burns the food,1.1
+10490,South Africa,F,Unemployed,... if she burns the food,1.2
+10491,South Africa,F,Employed for cash,... if she goes out without telling him,2.1
+10492,South Africa,F,Employed for kind,... if she goes out without telling him,2.7
+10493,South Africa,F,Unemployed,... if she goes out without telling him,2.1
+10494,South Africa,F,Employed for cash,... if she neglects the children,3.1
+10495,South Africa,F,Employed for kind,... if she neglects the children,8.6
+10496,South Africa,F,Unemployed,... if she neglects the children,4.2
+10497,South Africa,F,Employed for cash,... if she refuses to have sex with him,0.8
+10498,South Africa,F,Employed for kind,... if she refuses to have sex with him,0.7
+10499,South Africa,F,Unemployed,... if she refuses to have sex with him,1.1
+10572,South Africa,M,Employed for cash,... for at least one specific reason,7.2
+10573,South Africa,M,Employed for kind,... for at least one specific reason,14.9
+10574,South Africa,M,Unemployed,... for at least one specific reason,11.4
+10575,South Africa,M,Employed for cash,... if she argues with him,2.4
+10576,South Africa,M,Employed for kind,... if she argues with him,14.9
+10577,South Africa,M,Unemployed,... if she argues with him,5.1
+10578,South Africa,M,Employed for cash,... if she burns the food,1.7
+10579,South Africa,M,Employed for kind,... if she burns the food,14.9
+10580,South Africa,M,Unemployed,... if she burns the food,1.7
+10581,South Africa,M,Employed for cash,... if she goes out without telling him,3.1
+10582,South Africa,M,Employed for kind,... if she goes out without telling him,14.9
+10583,South Africa,M,Unemployed,... if she goes out without telling him,4.4
+10584,South Africa,M,Employed for cash,... if she neglects the children,4.3
+10585,South Africa,M,Employed for kind,... if she neglects the children,14.9
+10586,South Africa,M,Unemployed,... if she neglects the children,7.9
+10587,South Africa,M,Employed for cash,... if she refuses to have sex with him,1.6
+10588,South Africa,M,Employed for kind,... if she refuses to have sex with him,14.9
+10589,South Africa,M,Unemployed,... if she refuses to have sex with him,1.6
+10662,Tajikistan,F,Employed for cash,... for at least one specific reason,56.35000000000001
+10663,Tajikistan,F,Employed for kind,... for at least one specific reason,56.35000000000001
+10664,Tajikistan,F,Unemployed,... for at least one specific reason,56.35000000000001
+10665,Tajikistan,F,Employed for cash,... if she argues with him,46.9
+10666,Tajikistan,F,Employed for kind,... if she argues with him,51.3
+10667,Tajikistan,F,Unemployed,... if she argues with him,53.9
+10668,Tajikistan,F,Employed for cash,... if she burns the food,24.9
+10669,Tajikistan,F,Employed for kind,... if she burns the food,25.1
+10670,Tajikistan,F,Unemployed,... if she burns the food,31.2
+10671,Tajikistan,F,Employed for cash,... if she goes out without telling him,45.7
+10672,Tajikistan,F,Employed for kind,... if she goes out without telling him,51.2
+10673,Tajikistan,F,Unemployed,... if she goes out without telling him,52.9
+10674,Tajikistan,F,Employed for cash,... if she neglects the children,44.1
+10675,Tajikistan,F,Employed for kind,... if she neglects the children,51.5
+10676,Tajikistan,F,Unemployed,... if she neglects the children,51.5
+10677,Tajikistan,F,Employed for cash,... if she refuses to have sex with him,22.3
+10678,Tajikistan,F,Employed for kind,... if she refuses to have sex with him,23.7
+10679,Tajikistan,F,Unemployed,... if she refuses to have sex with him,28.1
+10752,Tajikistan,M,Employed for cash,... for at least one specific reason,14.9
+10753,Tajikistan,M,Employed for kind,... for at least one specific reason,14.9
+10754,Tajikistan,M,Unemployed,... for at least one specific reason,14.9
+10755,Tajikistan,M,Employed for cash,... if she argues with him,14.9
+10756,Tajikistan,M,Employed for kind,... if she argues with him,14.9
+10757,Tajikistan,M,Unemployed,... if she argues with him,14.9
+10758,Tajikistan,M,Employed for cash,... if she burns the food,14.9
+10759,Tajikistan,M,Employed for kind,... if she burns the food,14.9
+10760,Tajikistan,M,Unemployed,... if she burns the food,14.9
+10761,Tajikistan,M,Employed for cash,... if she goes out without telling him,14.9
+10762,Tajikistan,M,Employed for kind,... if she goes out without telling him,14.9
+10763,Tajikistan,M,Unemployed,... if she goes out without telling him,14.9
+10764,Tajikistan,M,Employed for cash,... if she neglects the children,14.9
+10765,Tajikistan,M,Employed for kind,... if she neglects the children,14.9
+10766,Tajikistan,M,Unemployed,... if she neglects the children,14.9
+10767,Tajikistan,M,Employed for cash,... if she refuses to have sex with him,14.9
+10768,Tajikistan,M,Employed for kind,... if she refuses to have sex with him,14.9
+10769,Tajikistan,M,Unemployed,... if she refuses to have sex with him,14.9
+10842,Tanzania,F,Employed for cash,... for at least one specific reason,53.3
+10843,Tanzania,F,Employed for kind,... for at least one specific reason,56.35000000000001
+10844,Tanzania,F,Unemployed,... for at least one specific reason,54.0
+10845,Tanzania,F,Employed for cash,... if she argues with him,37.2
+10846,Tanzania,F,Employed for kind,... if she argues with him,51.9
+10847,Tanzania,F,Unemployed,... if she argues with him,38.3
+10848,Tanzania,F,Employed for cash,... if she burns the food,16.9
+10849,Tanzania,F,Employed for kind,... if she burns the food,27.9
+10850,Tanzania,F,Unemployed,... if she burns the food,16.4
+10851,Tanzania,F,Employed for cash,... if she goes out without telling him,36.2
+10852,Tanzania,F,Employed for kind,... if she goes out without telling him,50.9
+10853,Tanzania,F,Unemployed,... if she goes out without telling him,37.1
+10854,Tanzania,F,Employed for cash,... if she neglects the children,44.4
+10855,Tanzania,F,Employed for kind,... if she neglects the children,56.0
+10856,Tanzania,F,Unemployed,... if she neglects the children,44.1
+10857,Tanzania,F,Employed for cash,... if she refuses to have sex with him,26.6
+10858,Tanzania,F,Employed for kind,... if she refuses to have sex with him,40.3
+10859,Tanzania,F,Unemployed,... if she refuses to have sex with him,25.2
+10932,Tanzania,M,Employed for cash,... for at least one specific reason,37.6
+10933,Tanzania,M,Employed for kind,... for at least one specific reason,51.0
+10934,Tanzania,M,Unemployed,... for at least one specific reason,40.7
+10935,Tanzania,M,Employed for cash,... if she argues with him,24.2
+10936,Tanzania,M,Employed for kind,... if she argues with him,27.0
+10937,Tanzania,M,Unemployed,... if she argues with him,22.7
+10938,Tanzania,M,Employed for cash,... if she burns the food,6.1
+10939,Tanzania,M,Employed for kind,... if she burns the food,9.0
+10940,Tanzania,M,Unemployed,... if she burns the food,5.6
+10941,Tanzania,M,Employed for cash,... if she goes out without telling him,21.4
+10942,Tanzania,M,Employed for kind,... if she goes out without telling him,32.2
+10943,Tanzania,M,Unemployed,... if she goes out without telling him,20.8
+10944,Tanzania,M,Employed for cash,... if she neglects the children,29.3
+10945,Tanzania,M,Employed for kind,... if she neglects the children,38.6
+10946,Tanzania,M,Unemployed,... if she neglects the children,31.9
+10947,Tanzania,M,Employed for cash,... if she refuses to have sex with him,13.5
+10948,Tanzania,M,Employed for kind,... if she refuses to have sex with him,18.8
+10949,Tanzania,M,Unemployed,... if she refuses to have sex with him,9.5
+11022,Timor-Leste,F,Employed for cash,... for at least one specific reason,56.35000000000001
+11023,Timor-Leste,F,Employed for kind,... for at least one specific reason,56.35000000000001
+11024,Timor-Leste,F,Unemployed,... for at least one specific reason,56.35000000000001
+11025,Timor-Leste,F,Employed for cash,... if she argues with him,56.35000000000001
+11026,Timor-Leste,F,Employed for kind,... if she argues with him,56.35000000000001
+11027,Timor-Leste,F,Unemployed,... if she argues with him,56.35000000000001
+11028,Timor-Leste,F,Employed for cash,... if she burns the food,30.3
+11029,Timor-Leste,F,Employed for kind,... if she burns the food,40.0
+11030,Timor-Leste,F,Unemployed,... if she burns the food,30.0
+11031,Timor-Leste,F,Employed for cash,... if she goes out without telling him,56.35000000000001
+11032,Timor-Leste,F,Employed for kind,... if she goes out without telling him,56.35000000000001
+11033,Timor-Leste,F,Unemployed,... if she goes out without telling him,56.35000000000001
+11034,Timor-Leste,F,Employed for cash,... if she neglects the children,56.35000000000001
+11035,Timor-Leste,F,Employed for kind,... if she neglects the children,56.35000000000001
+11036,Timor-Leste,F,Unemployed,... if she neglects the children,56.35000000000001
+11037,Timor-Leste,F,Employed for cash,... if she refuses to have sex with him,34.4
+11038,Timor-Leste,F,Employed for kind,... if she refuses to have sex with him,44.5
+11039,Timor-Leste,F,Unemployed,... if she refuses to have sex with him,33.5
+11112,Timor-Leste,M,Employed for cash,... for at least one specific reason,56.35000000000001
+11113,Timor-Leste,M,Employed for kind,... for at least one specific reason,45.3
+11114,Timor-Leste,M,Unemployed,... for at least one specific reason,47.2
+11115,Timor-Leste,M,Employed for cash,... if she argues with him,31.5
+11116,Timor-Leste,M,Employed for kind,... if she argues with him,30.0
+11117,Timor-Leste,M,Unemployed,... if she argues with him,27.4
+11118,Timor-Leste,M,Employed for cash,... if she burns the food,17.8
+11119,Timor-Leste,M,Employed for kind,... if she burns the food,22.8
+11120,Timor-Leste,M,Unemployed,... if she burns the food,17.6
+11121,Timor-Leste,M,Employed for cash,... if she goes out without telling him,55.0
+11122,Timor-Leste,M,Employed for kind,... if she goes out without telling him,37.0
+11123,Timor-Leste,M,Unemployed,... if she goes out without telling him,40.9
+11124,Timor-Leste,M,Employed for cash,... if she neglects the children,56.35000000000001
+11125,Timor-Leste,M,Employed for kind,... if she neglects the children,36.9
+11126,Timor-Leste,M,Unemployed,... if she neglects the children,42.3
+11127,Timor-Leste,M,Employed for cash,... if she refuses to have sex with him,31.2
+11128,Timor-Leste,M,Employed for kind,... if she refuses to have sex with him,24.7
+11129,Timor-Leste,M,Unemployed,... if she refuses to have sex with him,26.0
+11202,Togo,F,Employed for cash,... for at least one specific reason,29.1
+11203,Togo,F,Employed for kind,... for at least one specific reason,33.9
+11204,Togo,F,Unemployed,... for at least one specific reason,24.9
+11205,Togo,F,Employed for cash,... if she argues with him,20.1
+11206,Togo,F,Employed for kind,... if she argues with him,22.2
+11207,Togo,F,Unemployed,... if she argues with him,16.6
+11208,Togo,F,Employed for cash,... if she burns the food,10.8
+11209,Togo,F,Employed for kind,... if she burns the food,16.5
+11210,Togo,F,Unemployed,... if she burns the food,9.1
+11211,Togo,F,Employed for cash,... if she goes out without telling him,18.4
+11212,Togo,F,Employed for kind,... if she goes out without telling him,20.6
+11213,Togo,F,Unemployed,... if she goes out without telling him,14.9
+11214,Togo,F,Employed for cash,... if she neglects the children,18.8
+11215,Togo,F,Employed for kind,... if she neglects the children,24.4
+11216,Togo,F,Unemployed,... if she neglects the children,16.0
+11217,Togo,F,Employed for cash,... if she refuses to have sex with him,9.6
+11218,Togo,F,Employed for kind,... if she refuses to have sex with him,11.9
+11219,Togo,F,Unemployed,... if she refuses to have sex with him,8.2
+11292,Togo,M,Employed for cash,... for at least one specific reason,16.2
+11293,Togo,M,Employed for kind,... for at least one specific reason,29.9
+11294,Togo,M,Unemployed,... for at least one specific reason,13.9
+11295,Togo,M,Employed for cash,... if she argues with him,8.8
+11296,Togo,M,Employed for kind,... if she argues with him,15.8
+11297,Togo,M,Unemployed,... if she argues with him,8.8
+11298,Togo,M,Employed for cash,... if she burns the food,4.5
+11299,Togo,M,Employed for kind,... if she burns the food,11.9
+11300,Togo,M,Unemployed,... if she burns the food,4.6
+11301,Togo,M,Employed for cash,... if she goes out without telling him,9.4
+11302,Togo,M,Employed for kind,... if she goes out without telling him,15.1
+11303,Togo,M,Unemployed,... if she goes out without telling him,5.8
+11304,Togo,M,Employed for cash,... if she neglects the children,11.1
+11305,Togo,M,Employed for kind,... if she neglects the children,19.7
+11306,Togo,M,Unemployed,... if she neglects the children,7.4
+11307,Togo,M,Employed for cash,... if she refuses to have sex with him,4.3
+11308,Togo,M,Employed for kind,... if she refuses to have sex with him,9.3
+11309,Togo,M,Unemployed,... if she refuses to have sex with him,3.8
+11382,Turkey,F,Employed for cash,... for at least one specific reason,14.9
+11383,Turkey,F,Employed for kind,... for at least one specific reason,14.9
+11384,Turkey,F,Unemployed,... for at least one specific reason,13.2
+11385,Turkey,F,Employed for cash,... if she argues with him,14.9
+11386,Turkey,F,Employed for kind,... if she argues with him,14.9
+11387,Turkey,F,Unemployed,... if she argues with him,6.2
+11388,Turkey,F,Employed for cash,... if she burns the food,14.9
+11389,Turkey,F,Employed for kind,... if she burns the food,14.9
+11390,Turkey,F,Unemployed,... if she burns the food,1.1
+11391,Turkey,F,Employed for cash,... if she goes out without telling him,14.9
+11392,Turkey,F,Employed for kind,... if she goes out without telling him,14.9
+11393,Turkey,F,Unemployed,... if she goes out without telling him,4.4
+11394,Turkey,F,Employed for cash,... if she neglects the children,14.9
+11395,Turkey,F,Employed for kind,... if she neglects the children,14.9
+11396,Turkey,F,Unemployed,... if she neglects the children,8.8
+11397,Turkey,F,Employed for cash,... if she refuses to have sex with him,14.9
+11398,Turkey,F,Employed for kind,... if she refuses to have sex with him,14.9
+11399,Turkey,F,Unemployed,... if she refuses to have sex with him,2.5
+11472,Turkey,M,Employed for cash,... for at least one specific reason,14.9
+11473,Turkey,M,Employed for kind,... for at least one specific reason,14.9
+11474,Turkey,M,Unemployed,... for at least one specific reason,14.9
+11475,Turkey,M,Employed for cash,... if she argues with him,14.9
+11476,Turkey,M,Employed for kind,... if she argues with him,14.9
+11477,Turkey,M,Unemployed,... if she argues with him,14.9
+11478,Turkey,M,Employed for cash,... if she burns the food,14.9
+11479,Turkey,M,Employed for kind,... if she burns the food,14.9
+11480,Turkey,M,Unemployed,... if she burns the food,14.9
+11481,Turkey,M,Employed for cash,... if she goes out without telling him,14.9
+11482,Turkey,M,Employed for kind,... if she goes out without telling him,14.9
+11483,Turkey,M,Unemployed,... if she goes out without telling him,14.9
+11484,Turkey,M,Employed for cash,... if she neglects the children,14.9
+11485,Turkey,M,Employed for kind,... if she neglects the children,14.9
+11486,Turkey,M,Unemployed,... if she neglects the children,14.9
+11487,Turkey,M,Employed for cash,... if she refuses to have sex with him,14.9
+11488,Turkey,M,Employed for kind,... if she refuses to have sex with him,14.9
+11489,Turkey,M,Unemployed,... if she refuses to have sex with him,14.9
+11562,Turkmenistan,F,Employed for cash,... for at least one specific reason,48.9
+11563,Turkmenistan,F,Employed for kind,... for at least one specific reason,56.35000000000001
+11564,Turkmenistan,F,Unemployed,... for at least one specific reason,54.3
+11565,Turkmenistan,F,Employed for cash,... if she argues with him,31.1
+11566,Turkmenistan,F,Employed for kind,... if she argues with him,49.1
+11567,Turkmenistan,F,Unemployed,... if she argues with him,36.3
+11568,Turkmenistan,F,Employed for cash,... if she burns the food,19.3
+11569,Turkmenistan,F,Employed for kind,... if she burns the food,48.4
+11570,Turkmenistan,F,Unemployed,... if she burns the food,23.9
+11571,Turkmenistan,F,Employed for cash,... if she goes out without telling him,37.8
+11572,Turkmenistan,F,Employed for kind,... if she goes out without telling him,56.35000000000001
+11573,Turkmenistan,F,Unemployed,... if she goes out without telling him,42.5
+11574,Turkmenistan,F,Employed for cash,... if she neglects the children,40.6
+11575,Turkmenistan,F,Employed for kind,... if she neglects the children,56.35000000000001
+11576,Turkmenistan,F,Unemployed,... if she neglects the children,46.4
+11577,Turkmenistan,F,Employed for cash,... if she refuses to have sex with him,18.7
+11578,Turkmenistan,F,Employed for kind,... if she refuses to have sex with him,43.9
+11579,Turkmenistan,F,Unemployed,... if she refuses to have sex with him,23.1
+11652,Turkmenistan,M,Employed for cash,... for at least one specific reason,14.9
+11653,Turkmenistan,M,Employed for kind,... for at least one specific reason,14.9
+11654,Turkmenistan,M,Unemployed,... for at least one specific reason,14.9
+11655,Turkmenistan,M,Employed for cash,... if she argues with him,14.9
+11656,Turkmenistan,M,Employed for kind,... if she argues with him,14.9
+11657,Turkmenistan,M,Unemployed,... if she argues with him,14.9
+11658,Turkmenistan,M,Employed for cash,... if she burns the food,14.9
+11659,Turkmenistan,M,Employed for kind,... if she burns the food,14.9
+11660,Turkmenistan,M,Unemployed,... if she burns the food,14.9
+11661,Turkmenistan,M,Employed for cash,... if she goes out without telling him,14.9
+11662,Turkmenistan,M,Employed for kind,... if she goes out without telling him,14.9
+11663,Turkmenistan,M,Unemployed,... if she goes out without telling him,14.9
+11664,Turkmenistan,M,Employed for cash,... if she neglects the children,14.9
+11665,Turkmenistan,M,Employed for kind,... if she neglects the children,14.9
+11666,Turkmenistan,M,Unemployed,... if she neglects the children,14.9
+11667,Turkmenistan,M,Employed for cash,... if she refuses to have sex with him,14.9
+11668,Turkmenistan,M,Employed for kind,... if she refuses to have sex with him,14.9
+11669,Turkmenistan,M,Unemployed,... if she refuses to have sex with him,14.9
+11742,Uganda,F,Employed for cash,... for at least one specific reason,46.2
+11743,Uganda,F,Employed for kind,... for at least one specific reason,56.35000000000001
+11744,Uganda,F,Unemployed,... for at least one specific reason,46.8
+11745,Uganda,F,Employed for cash,... if she argues with him,23.4
+11746,Uganda,F,Employed for kind,... if she argues with him,36.0
+11747,Uganda,F,Unemployed,... if she argues with him,24.5
+11748,Uganda,F,Employed for cash,... if she burns the food,12.0
+11749,Uganda,F,Employed for kind,... if she burns the food,18.9
+11750,Uganda,F,Unemployed,... if she burns the food,13.3
+11751,Uganda,F,Employed for cash,... if she goes out without telling him,27.6
+11752,Uganda,F,Employed for kind,... if she goes out without telling him,38.0
+11753,Uganda,F,Unemployed,... if she goes out without telling him,29.4
+11754,Uganda,F,Employed for cash,... if she neglects the children,36.3
+11755,Uganda,F,Employed for kind,... if she neglects the children,47.0
+11756,Uganda,F,Unemployed,... if she neglects the children,36.7
+11757,Uganda,F,Employed for cash,... if she refuses to have sex with him,16.4
+11758,Uganda,F,Employed for kind,... if she refuses to have sex with him,25.5
+11759,Uganda,F,Unemployed,... if she refuses to have sex with him,15.8
+11832,Uganda,M,Employed for cash,... for at least one specific reason,40.1
+11833,Uganda,M,Employed for kind,... for at least one specific reason,39.6
+11834,Uganda,M,Unemployed,... for at least one specific reason,49.8
+11835,Uganda,M,Employed for cash,... if she argues with him,22.7
+11836,Uganda,M,Employed for kind,... if she argues with him,23.2
+11837,Uganda,M,Unemployed,... if she argues with him,30.1
+11838,Uganda,M,Employed for cash,... if she burns the food,6.9
+11839,Uganda,M,Employed for kind,... if she burns the food,7.5
+11840,Uganda,M,Unemployed,... if she burns the food,11.0
+11841,Uganda,M,Employed for cash,... if she goes out without telling him,22.6
+11842,Uganda,M,Employed for kind,... if she goes out without telling him,19.4
+11843,Uganda,M,Unemployed,... if she goes out without telling him,29.7
+11844,Uganda,M,Employed for cash,... if she neglects the children,28.0
+11845,Uganda,M,Employed for kind,... if she neglects the children,27.2
+11846,Uganda,M,Unemployed,... if she neglects the children,36.6
+11847,Uganda,M,Employed for cash,... if she refuses to have sex with him,11.5
+11848,Uganda,M,Employed for kind,... if she refuses to have sex with him,11.3
+11849,Uganda,M,Unemployed,... if she refuses to have sex with him,15.4
+11922,Ukraine,F,Employed for cash,... for at least one specific reason,3.6
+11923,Ukraine,F,Employed for kind,... for at least one specific reason,6.4
+11924,Ukraine,F,Unemployed,... for at least one specific reason,3.3
+11925,Ukraine,F,Employed for cash,... if she argues with him,0.9
+11926,Ukraine,F,Employed for kind,... if she argues with him,3.2
+11927,Ukraine,F,Unemployed,... if she argues with him,0.8
+11928,Ukraine,F,Employed for cash,... if she burns the food,0.1
+11929,Ukraine,F,Employed for kind,... if she burns the food,2.0
+11930,Ukraine,F,Unemployed,... if she burns the food,0.2
+11931,Ukraine,F,Employed for cash,... if she goes out without telling him,0.4
+11932,Ukraine,F,Employed for kind,... if she goes out without telling him,2.0
+11933,Ukraine,F,Unemployed,... if she goes out without telling him,0.5
+11934,Ukraine,F,Employed for cash,... if she neglects the children,3.2
+11935,Ukraine,F,Employed for kind,... if she neglects the children,5.3
+11936,Ukraine,F,Unemployed,... if she neglects the children,2.8
+11937,Ukraine,F,Employed for cash,... if she refuses to have sex with him,0.4
+11938,Ukraine,F,Employed for kind,... if she refuses to have sex with him,2.0
+11939,Ukraine,F,Unemployed,... if she refuses to have sex with him,0.7
+12012,Ukraine,M,Employed for cash,... for at least one specific reason,11.2
+12013,Ukraine,M,Employed for kind,... for at least one specific reason,12.0
+12014,Ukraine,M,Unemployed,... for at least one specific reason,10.5
+12015,Ukraine,M,Employed for cash,... if she argues with him,5.3
+12016,Ukraine,M,Employed for kind,... if she argues with him,3.2
+12017,Ukraine,M,Unemployed,... if she argues with him,4.8
+12018,Ukraine,M,Employed for cash,... if she burns the food,0.6
+12019,Ukraine,M,Employed for kind,... if she burns the food,1.2
+12020,Ukraine,M,Unemployed,... if she burns the food,0.9
+12021,Ukraine,M,Employed for cash,... if she goes out without telling him,4.3
+12022,Ukraine,M,Employed for kind,... if she goes out without telling him,5.3
+12023,Ukraine,M,Unemployed,... if she goes out without telling him,3.7
+12024,Ukraine,M,Employed for cash,... if she neglects the children,9.2
+12025,Ukraine,M,Employed for kind,... if she neglects the children,9.9
+12026,Ukraine,M,Unemployed,... if she neglects the children,8.0
+12027,Ukraine,M,Employed for cash,... if she refuses to have sex with him,1.8
+12028,Ukraine,M,Employed for kind,... if she refuses to have sex with him,1.2
+12029,Ukraine,M,Unemployed,... if she refuses to have sex with him,2.2
+12102,Yemen,F,Employed for cash,... for at least one specific reason,39.4
+12103,Yemen,F,Employed for kind,... for at least one specific reason,56.35000000000001
+12104,Yemen,F,Unemployed,... for at least one specific reason,48.7
+12105,Yemen,F,Employed for cash,... if she argues with him,13.8
+12106,Yemen,F,Employed for kind,... if she argues with him,25.1
+12107,Yemen,F,Unemployed,... if she argues with him,19.9
+12108,Yemen,F,Employed for cash,... if she burns the food,5.9
+12109,Yemen,F,Employed for kind,... if she burns the food,15.2
+12110,Yemen,F,Unemployed,... if she burns the food,9.6
+12111,Yemen,F,Employed for cash,... if she goes out without telling him,25.9
+12112,Yemen,F,Employed for kind,... if she goes out without telling him,47.8
+12113,Yemen,F,Unemployed,... if she goes out without telling him,35.5
+12114,Yemen,F,Employed for cash,... if she neglects the children,22.0
+12115,Yemen,F,Employed for kind,... if she neglects the children,42.4
+12116,Yemen,F,Unemployed,... if she neglects the children,29.9
+12117,Yemen,F,Employed for cash,... if she refuses to have sex with him,25.9
+12118,Yemen,F,Employed for kind,... if she refuses to have sex with him,47.3
+12119,Yemen,F,Unemployed,... if she refuses to have sex with him,32.2
+12192,Yemen,M,Employed for cash,... for at least one specific reason,14.9
+12193,Yemen,M,Employed for kind,... for at least one specific reason,14.9
+12194,Yemen,M,Unemployed,... for at least one specific reason,14.9
+12195,Yemen,M,Employed for cash,... if she argues with him,14.9
+12196,Yemen,M,Employed for kind,... if she argues with him,14.9
+12197,Yemen,M,Unemployed,... if she argues with him,14.9
+12198,Yemen,M,Employed for cash,... if she burns the food,14.9
+12199,Yemen,M,Employed for kind,... if she burns the food,14.9
+12200,Yemen,M,Unemployed,... if she burns the food,14.9
+12201,Yemen,M,Employed for cash,... if she goes out without telling him,14.9
+12202,Yemen,M,Employed for kind,... if she goes out without telling him,14.9
+12203,Yemen,M,Unemployed,... if she goes out without telling him,14.9
+12204,Yemen,M,Employed for cash,... if she neglects the children,14.9
+12205,Yemen,M,Employed for kind,... if she neglects the children,14.9
+12206,Yemen,M,Unemployed,... if she neglects the children,14.9
+12207,Yemen,M,Employed for cash,... if she refuses to have sex with him,14.9
+12208,Yemen,M,Employed for kind,... if she refuses to have sex with him,14.9
+12209,Yemen,M,Unemployed,... if she refuses to have sex with him,14.9
+12282,Zambia,F,Employed for cash,... for at least one specific reason,45.9
+12283,Zambia,F,Employed for kind,... for at least one specific reason,56.35000000000001
+12284,Zambia,F,Unemployed,... for at least one specific reason,41.0
+12285,Zambia,F,Employed for cash,... if she argues with him,33.4
+12286,Zambia,F,Employed for kind,... if she argues with him,47.0
+12287,Zambia,F,Unemployed,... if she argues with him,28.3
+12288,Zambia,F,Employed for cash,... if she burns the food,22.4
+12289,Zambia,F,Employed for kind,... if she burns the food,36.4
+12290,Zambia,F,Unemployed,... if she burns the food,19.3
+12291,Zambia,F,Employed for cash,... if she goes out without telling him,29.4
+12292,Zambia,F,Employed for kind,... if she goes out without telling him,40.2
+12293,Zambia,F,Unemployed,... if she goes out without telling him,26.0
+12294,Zambia,F,Employed for cash,... if she neglects the children,33.1
+12295,Zambia,F,Employed for kind,... if she neglects the children,45.7
+12296,Zambia,F,Unemployed,... if she neglects the children,28.1
+12297,Zambia,F,Employed for cash,... if she refuses to have sex with him,28.7
+12298,Zambia,F,Employed for kind,... if she refuses to have sex with him,45.5
+12299,Zambia,F,Unemployed,... if she refuses to have sex with him,22.5
+12372,Zambia,M,Employed for cash,... for at least one specific reason,29.7
+12373,Zambia,M,Employed for kind,... for at least one specific reason,40.1
+12374,Zambia,M,Unemployed,... for at least one specific reason,30.1
+12375,Zambia,M,Employed for cash,... if she argues with him,19.0
+12376,Zambia,M,Employed for kind,... if she argues with him,25.0
+12377,Zambia,M,Unemployed,... if she argues with him,18.3
+12378,Zambia,M,Employed for cash,... if she burns the food,6.7
+12379,Zambia,M,Employed for kind,... if she burns the food,9.6
+12380,Zambia,M,Unemployed,... if she burns the food,7.6
+12381,Zambia,M,Employed for cash,... if she goes out without telling him,14.9
+12382,Zambia,M,Employed for kind,... if she goes out without telling him,20.9
+12383,Zambia,M,Unemployed,... if she goes out without telling him,15.0
+12384,Zambia,M,Employed for cash,... if she neglects the children,18.2
+12385,Zambia,M,Employed for kind,... if she neglects the children,24.6
+12386,Zambia,M,Unemployed,... if she neglects the children,19.8
+12387,Zambia,M,Employed for cash,... if she refuses to have sex with him,10.0
+12388,Zambia,M,Employed for kind,... if she refuses to have sex with him,12.2
+12389,Zambia,M,Unemployed,... if she refuses to have sex with him,10.9
+12462,Zimbabwe,F,Employed for cash,... for at least one specific reason,34.5
+12463,Zimbabwe,F,Employed for kind,... for at least one specific reason,39.0
+12464,Zimbabwe,F,Unemployed,... for at least one specific reason,42.8
+12465,Zimbabwe,F,Employed for cash,... if she argues with him,14.7
+12466,Zimbabwe,F,Employed for kind,... if she argues with him,18.1
+12467,Zimbabwe,F,Unemployed,... if she argues with him,18.6
+12468,Zimbabwe,F,Employed for cash,... if she burns the food,6.2
+12469,Zimbabwe,F,Employed for kind,... if she burns the food,8.9
+12470,Zimbabwe,F,Unemployed,... if she burns the food,9.9
+12471,Zimbabwe,F,Employed for cash,... if she goes out without telling him,20.1
+12472,Zimbabwe,F,Employed for kind,... if she goes out without telling him,24.3
+12473,Zimbabwe,F,Unemployed,... if she goes out without telling him,25.4
+12474,Zimbabwe,F,Employed for cash,... if she neglects the children,18.8
+12475,Zimbabwe,F,Employed for kind,... if she neglects the children,24.8
+12476,Zimbabwe,F,Unemployed,... if she neglects the children,23.6
+12477,Zimbabwe,F,Employed for cash,... if she refuses to have sex with him,13.2
+12478,Zimbabwe,F,Employed for kind,... if she refuses to have sex with him,17.2
+12479,Zimbabwe,F,Unemployed,... if she refuses to have sex with him,15.6
+12552,Zimbabwe,M,Employed for cash,... for at least one specific reason,29.0
+12553,Zimbabwe,M,Employed for kind,... for at least one specific reason,40.3
+12554,Zimbabwe,M,Unemployed,... for at least one specific reason,38.5
+12555,Zimbabwe,M,Employed for cash,... if she argues with him,12.6
+12556,Zimbabwe,M,Employed for kind,... if she argues with him,17.5
+12557,Zimbabwe,M,Unemployed,... if she argues with him,15.5
+12558,Zimbabwe,M,Employed for cash,... if she burns the food,4.3
+12559,Zimbabwe,M,Employed for kind,... if she burns the food,8.2
+12560,Zimbabwe,M,Unemployed,... if she burns the food,8.6
+12561,Zimbabwe,M,Employed for cash,... if she goes out without telling him,16.5
+12562,Zimbabwe,M,Employed for kind,... if she goes out without telling him,23.4
+12563,Zimbabwe,M,Unemployed,... if she goes out without telling him,18.3
+12564,Zimbabwe,M,Employed for cash,... if she neglects the children,16.1
+12565,Zimbabwe,M,Employed for kind,... if she neglects the children,21.7
+12566,Zimbabwe,M,Unemployed,... if she neglects the children,22.0
+12567,Zimbabwe,M,Employed for cash,... if she refuses to have sex with him,5.2
+12568,Zimbabwe,M,Employed for kind,... if she refuses to have sex with him,7.5
+12569,Zimbabwe,M,Unemployed,... if she refuses to have sex with him,7.0
